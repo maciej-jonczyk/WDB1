@@ -1,0 +1,71 @@
+########################################
+# Program: water
+# Rundate: Tue 29 Oct 2024 15:12:19
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20241029-151215-0274-41728320-p1m.asequence
+#    -bsequence emboss_water-I20241029-151215-0274-41728320-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: ADHX_MOUSE
+# 2: WP_004713480.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 369
+# Identity:     234/369 (63.4%)
+# Similarity:   303/369 (82.1%)
+# Gaps:           0/369 ( 0.0%)
+# Score: 1322.0
+# 
+#
+#=======================================
+
+ADHX_MOUSE         4 QVIRCKAAVAWEAGKPLSIEEIEVAPPKAHEVRIKILATAVCHTDAYTLS     53
+                     ::|:.:|||||...:|||:||:::.||:..||.::|:|:.||||||||||
+WP_004713480.      2 EMIKTRAAVAWGPNQPLSVEEVDLMPPQKGEVLVRIVASGVCHTDAYTLS     51
+
+ADHX_MOUSE        54 GADPEGCFPVILGHEGAGIVESVGEGVTKLKAGDTVIPLYIPQCGECKFC    103
+                     |.||||.||.||||||.||||::|||||.:..||.|||||.|:|||||||
+WP_004713480.     52 GKDPEGVFPAILGHEGGGIVEAIGEGVTSVAVGDHVIPLYTPECGECKFC    101
+
+ADHX_MOUSE       104 LNPKTNLCQKIRVTQGKGLMPDGTSRFTCKGKSVFHFMGTSTFSEYTVVA    153
+                     .:.||||||.||.|||||||||||:||:..|:.:||:||||||||.|||.
+WP_004713480.    102 RSGKTNLCQAIRSTQGKGLMPDGTTRFSKNGQPIFHYMGTSTFSELTVVP    151
+
+ADHX_MOUSE       154 DISVAKIDPSAPLDKVCLLGCGISTGYGAAVNTAKVEPGSTCAVFGLGGV    203
+                     :||:|||:..|||::|||||||::||.||.:|||||:||.|.|:|||||:
+WP_004713480.    152 EISLAKINKEAPLEEVCLLGCGVTTGMGAVINTAKVKPGDTVAIFGLGGI    201
+
+ADHX_MOUSE       204 GLAVIMGCKVAGASRIIGIDINKDKFAKAKEFGASECISPQDFSKSIQEV    253
+                     ||:.::|.::|||.||||||:|..||..|::.||::.|:|:|:.|.||:|
+WP_004713480.    202 GLSAVIGAQMAGAGRIIGIDLNTSKFELARKLGATDLINPKDYDKPIQDV    251
+
+ADHX_MOUSE       254 LVEMTDGGVDYSFECIGNVKVMRSALEAAHKGWGVSVVVGVAASGEEIST    303
+                     :||:||||||:||||||||.|||||||..|||||.||::|||.:||||||
+WP_004713480.    252 IVELTDGGVDFSFECIGNVNVMRSALECCHKGWGESVIIGVAGAGEEIST    301
+
+ADHX_MOUSE       304 RPFQLVTGRTWKGTAFGGWKSVESVPKLVSEYMSKKIKVDEFVTGNLSFD    353
+                     |||||||||.|:|:||||.|....:|.:|.:|:..|..:::|:|..:|.|
+WP_004713480.    302 RPFQLVTGRVWRGSAFGGVKGRSELPGIVQQYLDGKFALNDFITHTMSLD    351
+
+ADHX_MOUSE       354 QINQAFDLMHSGDSIRTVL    372
+                     |||:||||||.|.|||:|:
+WP_004713480.    352 QINEAFDLMHEGKSIRSVI    370
+
+
+#---------------------------------------
+#---------------------------------------

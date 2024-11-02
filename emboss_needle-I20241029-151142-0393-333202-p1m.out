@@ -1,0 +1,73 @@
+########################################
+# Program: needle
+# Rundate: Tue 29 Oct 2024 15:11:46
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20241029-151142-0393-333202-p1m.asequence
+#    -bsequence emboss_needle-I20241029-151142-0393-333202-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: ADHX_MOUSE
+# 2: WP_004713480.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 386
+# Identity:     234/386 (60.6%)
+# Similarity:   303/386 (78.5%)
+# Gaps:          14/386 ( 3.6%)
+# Score: 1319.0
+# 
+#
+#=======================================
+
+ADHX_MOUSE         1 MANQVIRCKAAVAWEAGKPLSIEEIEVAPPKAHEVRIKILATAVCHTDAY     50
+                       .::|:.:|||||...:|||:||:::.||:..||.::|:|:.|||||||
+WP_004713480.      1 --MEMIKTRAAVAWGPNQPLSVEEVDLMPPQKGEVLVRIVASGVCHTDAY     48
+
+ADHX_MOUSE        51 TLSGADPEGCFPVILGHEGAGIVESVGEGVTKLKAGDTVIPLYIPQCGEC    100
+                     ||||.||||.||.||||||.||||::|||||.:..||.|||||.|:||||
+WP_004713480.     49 TLSGKDPEGVFPAILGHEGGGIVEAIGEGVTSVAVGDHVIPLYTPECGEC     98
+
+ADHX_MOUSE       101 KFCLNPKTNLCQKIRVTQGKGLMPDGTSRFTCKGKSVFHFMGTSTFSEYT    150
+                     |||.:.||||||.||.|||||||||||:||:..|:.:||:||||||||.|
+WP_004713480.     99 KFCRSGKTNLCQAIRSTQGKGLMPDGTTRFSKNGQPIFHYMGTSTFSELT    148
+
+ADHX_MOUSE       151 VVADISVAKIDPSAPLDKVCLLGCGISTGYGAAVNTAKVEPGSTCAVFGL    200
+                     ||.:||:|||:..|||::|||||||::||.||.:|||||:||.|.|:|||
+WP_004713480.    149 VVPEISLAKINKEAPLEEVCLLGCGVTTGMGAVINTAKVKPGDTVAIFGL    198
+
+ADHX_MOUSE       201 GGVGLAVIMGCKVAGASRIIGIDINKDKFAKAKEFGASECISPQDFSKSI    250
+                     ||:||:.::|.::|||.||||||:|..||..|::.||::.|:|:|:.|.|
+WP_004713480.    199 GGIGLSAVIGAQMAGAGRIIGIDLNTSKFELARKLGATDLINPKDYDKPI    248
+
+ADHX_MOUSE       251 QEVLVEMTDGGVDYSFECIGNVKVMRSALEAAHKGWGVSVVVGVAASGEE    300
+                     |:|:||:||||||:||||||||.|||||||..|||||.||::|||.:|||
+WP_004713480.    249 QDVIVELTDGGVDFSFECIGNVNVMRSALECCHKGWGESVIIGVAGAGEE    298
+
+ADHX_MOUSE       301 ISTRPFQLVTGRTWKGTAFGGWKSVESVPKLVSEYMSKKIKVDEFVTGNL    350
+                     ||||||||||||.|:|:||||.|....:|.:|.:|:..|..:::|:|..:
+WP_004713480.    299 ISTRPFQLVTGRVWRGSAFGGVKGRSELPGIVQQYLDGKFALNDFITHTM    348
+
+ADHX_MOUSE       351 SFDQINQAFDLMHSGDSIRTVLKM------------    374
+                     |.||||:||||||.|.|||:|:..            
+WP_004713480.    349 SLDQINEAFDLMHEGKSIRSVIHFDQSSQNHSLQKK    384
+
+
+#---------------------------------------
+#---------------------------------------

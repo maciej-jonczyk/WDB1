@@ -1,0 +1,2717 @@
+RID: J21A9G9H013	
+Job Title:DinoDNA &quot;Dinosaur DNA&quot; from Crichton's				
+Program: BLASTX 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: DinoDNA "Dinosaur DNA" from Crichton's THE LOST WORLD p. 135 Query ID: lcl|Query_6615815 Length: 1435
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+erythroid transcription factor [Gallus gallus]                    Gallus gallus   chicken         9031       348    348   66%   1e-113 95.60  304        NP_990795.1      
+erythroid transcription factor-like [Cygnus olor]                 Cygnus olor     mute swan       8869       259    259   61%   4e-79  67.92  297        XP_040399693.1   
+LOW QUALITY PROTEIN: erythroid transcription factor [Aphelocom... Aphelocoma c... scrub jay       39617      242    242   61%   5e-72  63.48  324        XP_068854348.1   
+erythroid transcription factor [Parus major]                      Parus major     Great Tit       9157       243    243   61%   6e-72  58.84  356        XP_018860986.2   
+erythroid transcription factor isoform X4 [Poecile atricapillus]  Poecile atri... Black-capped... 48891      239    239   48%   2e-71  65.65  295        XP_058684587.1   
+erythroid transcription factor isoform X1 [Poecile atricapillus]  Poecile atri... Black-capped... 48891      241    241   48%   5e-71  65.65  356        XP_058684583.1   
+erythroid transcription factor [Catharus ustulatus]               Catharus ust... Swainson's t... 91951      234    234   47%   2e-69  70.74  289        XP_032939535.1   
+erythroid transcription factor [Cuculus canorus]                  Cuculus canorus common cuckoo   55661      231    231   66%   3e-68  61.59  300        XP_053908127.1   
+LOW QUALITY PROTEIN: erythroid transcription factor...            Melopsittacu... budgerigar      13146      228    228   47%   2e-66  74.24  321        XP_033927778.1   
+erythroid transcription factor [Strigops habroptila]              Strigops hab... Kakapo          2489341    228    228   61%   3e-66  64.16  352        XP_030330160.1   
+hypothetical protein HGM15179_017468 [Zosterops borbonicus]       Zosterops bo... NA              364589     224    224   52%   1e-65  62.70  294        TRZ09635.1       
+LOW QUALITY PROTEIN: erythroid transcription factor [Corvus...    Corvus moned... New Caledoni... 1196302    225    225   52%   2e-65  61.51  325        XP_031948096.1   
+erythroid transcription factor isoform X1 [Cinclus cinclus]       Cinclus cinclus NA              127875     226    226   52%   2e-65  61.11  355        XP_062368118.1   
+LOW QUALITY PROTEIN: erythroid transcription factor [Ammospiza... Ammospiza ne... NA              2857394    223    223   51%   8e-65  64.78  299        XP_059347531.1   
+erythroid transcription factor isoform X3 [Anomalospiza imberbis] Anomalospiza... NA              187417     220    220   52%   6e-64  62.70  293        XP_068034331.1   
+erythroid transcription factor-like [Lonchura striata]            Lonchura str... white-rumped... 40157      217    217   44%   9e-64  62.73  220        XP_021410409.1   
+erythroid transcription factor-like [Pezoporus wallicus]          Pezoporus wa... ground parrot   35540      219    219   47%   2e-63  72.61  301        XP_057288303.1   
+histone deacetylase 6 [Grus japonensis]                           Grus japonensis Red-crowned ... 30415      234    234   47%   4e-63  74.89  1226       GAB0202316.1     
+erythroid transcription factor-like [Phalacrocorax carbo]         Phalacrocora... great cormorant 9209       217    217   52%   5e-63  59.92  272        XP_064296398.1   
+erythroid transcription factor isoform X2 [Zonotrichia...         Zonotrichia ... NA              257770     216    216   44%   6e-63  64.35  237        XP_064557024.1   
+erythroid transcription factor isoform X4 [Anomalospiza imberbis] Anomalospiza... NA              187417     216    216   44%   6e-63  65.14  240        XP_068034333.1   
+LOW QUALITY PROTEIN: erythroid transcription factor [Taeniopyg... Taeniopygia ... zebra finch     59729      216    216   44%   2e-62  64.49  303        XP_041567996.1   
+LOW QUALITY PROTEIN: erythroid transcription factor [Vidua...     Vidua chalyb... NA              81927      219    219   52%   7e-62  61.90  415        XP_053823963.1   
+PREDICTED: erythroid transcription factor isoform X1...           Pseudopodoce... Tibetan grou... 181119     214    214   44%   1e-61  65.00  279        XP_014117351.1   
+erythroid transcription factor isoform X2 [Cinclus cinclus]       Cinclus cinclus NA              127875     214    214   52%   3e-61  57.68  310        XP_062368119.1   
+erythroid transcription factor [Ammospiza caudacuta]              Ammospiza ca... NA              2857398    213    213   51%   4e-61  61.54  295        XP_058678399.1   
+erythroid transcription factor [Molothrus aeneus]                 Molothrus ae... bronzed cowbird 84833      213    213   51%   5e-61  62.35  294        XP_066426604.1   
+erythroid transcription factor isoform X1 [Zonotrichia...         Zonotrichia ... NA              257770     211    211   39%   2e-60  67.72  293        XP_064557022.1   
+erythroid transcription factor isoform X1 [Anomalospiza imberbis] Anomalospiza... NA              187417     216    216   52%   6e-60  62.70  520        XP_068034329.1   
+erythroid transcription factor [Caloenas nicobarica]              Caloenas nic... Nicobar pigeon  187106     209    209   39%   8e-60  69.31  301        XP_065509384.1   
+erythroid transcription factor-like [Pyrgilauda ruficollis]       Pyrgilauda r... rufous-necke... 221976     199    199   25%   2e-57  86.29  181        XP_041324271.1   
+erythroid transcription factor [Oenanthe melanoleuca]             Oenanthe mel... NA              2939378    210    210   39%   4e-57  70.74  570        XP_056371328.1   
+LOW QUALITY PROTEIN: erythroid transcription factor [Corvus...    Corvus corni... NA              932674     211    211   44%   5e-57  65.61  615        XP_039428500.1   
+erythroid transcription factor [Dromaius novaehollandiae]         Dromaius nov... emu             8790       202    202   39%   1e-56  67.20  325        XP_064359477.1   
+erythroid transcription factor-like [Anser cygnoides]             Anser cygnoides Swan goose      8845       200    200   25%   2e-56  86.29  275        XP_066840662.1   
+erythroid transcription factor [Chelonoidis abingdonii]           Chelonoidis ... Abingdon isl... 106734     202    202   39%   7e-56  61.90  375        XP_032634784.1   
+erythroid transcription factor [Struthio camelus]                 Struthio cam... African ostrich 8801       200    200   39%   7e-56  68.78  328        XP_068780207.1   
+erythroid transcription factor isoform X1 [Dermochelys coriacea]  Dermochelys ... leatherback ... 27794      201    201   26%   1e-55  81.60  384        XP_043357518.1   
+LOW QUALITY PROTEIN: erythroid transcription factor-like [Pass... Passer domes... house sparrow   48849      204    204   39%   1e-55  68.62  487        XP_064262494.1   
+erythroid transcription factor isoform X2 [Dermochelys coriacea]  Dermochelys ... leatherback ... 27794      201    201   26%   2e-55  81.60  376        XP_038238294.1   
+erythroid transcription factor [Camarhynchus parvulus]            Camarhynchus... NA              87175      200    200   25%   2e-55  84.68  354        XP_030826123.1   
+LOW QUALITY PROTEIN: erythroid transcription factor [Caretta...   Caretta caretta Loggerhead t... 8467       201    201   26%   2e-55  81.60  375        XP_048689163.1   
+LOW QUALITY PROTEIN: erythroid transcription factor [Alligator... Alligator si... Chinese alli... 38654      199    199   26%   2e-55  81.60  323        XP_025069504.1   
+erythroid transcription factor [Mauremys mutica]                  Mauremys mutica yellowpond t... 74926      200    200   26%   3e-55  80.80  375        XP_044856332.1   
+erythroid transcription factor [Mauremys reevesii]                Mauremys ree... Reeves's turtle 260615     200    200   26%   3e-55  80.80  375        XP_039365782.1   
+erythroid transcription factor isoform X2 [Gopherus...            Gopherus fla... Mexican goph... 286002     199    199   26%   4e-55  80.00  375        XP_050783280.1   
+erythroid transcription factor [Emydura macquarii macquarii]      Emydura macq... NA              1129001    198    198   39%   1e-54  60.32  374        XP_067408470.1   
+erythroid transcription factor [Malaclemys terrapin pileata]      Malaclemys t... NA              2991368    200    200   26%   2e-54  80.80  470        XP_053870727.1   
+erythroid transcription factor isoform X1 [Gopherus...            Gopherus fla... Mexican goph... 286002     199    199   26%   3e-54  80.00  418        XP_050783279.1   
+LOW QUALITY PROTEIN: erythroid transcription factor [Emys...      Emys orbicul... European pon... 82168      197    197   26%   3e-54  80.00  368        XP_065279184.1   
+GATA-binding factor 2-like [Carcharodon carcharias]               Carcharodon ... great white ... 13397      197    197   25%   8e-54  79.67  408        XP_041035532.1   
+erythroid transcription factor [Alligator mississippiensis]       Alligator mi... American all... 8496       199    199   26%   1e-53  81.60  485        KYO28252.1       
+LOW QUALITY PROTEIN: erythroid transcription factor [Chamaea...   Chamaea fasc... NA              190680     192    192   36%   2e-52  68.79  342        XP_066063348.1   
+unnamed protein product [Tetraodon nigroviridis]                  Tetraodon ni... spotted gree... 99883      186    186   25%   2e-52  77.05  190        CAF96874.1       
+erythroid transcription factor-like [Dryobates pubescens]         Dryobates pu... Downy woodpe... 118200     182    182   39%   4e-49  67.01  323        XP_054033170.1   
+erythroid transcription factor isoform X2 [Monodelphis domestica] Monodelphis ... gray short-t... 13616      179    179   26%   6e-48  78.40  322        XP_007507746.1   
+erythroid transcription factor isoform X2 [Phascolarctos...       Phascolarcto... koala           38626      178    178   26%   1e-47  79.20  321        XP_020832087.1   
+erythroid transcription factor [Vombatus ursinus]                 Vombatus urs... common wombat   29139      180    180   26%   1e-47  79.20  393        XP_027696996.1   
+erythroid transcription factor isoform X1 [Monodelphis domestica] Monodelphis ... gray short-t... 13616      179    179   26%   3e-47  78.40  401        XP_001372037.1   
+erythroid transcription factor isoform X1 [Phascolarctos...       Phascolarcto... koala           38626      179    179   26%   4e-47  79.20  400        XP_020832085.1   
+Erythroid transcription factor [Cricetulus griseus]               Cricetulus g... Chinese hamster 10029      177    177   26%   6e-47  79.20  330        EGW06105.1       
+erythroid transcription factor isoform X1 [Antechinus flavipes]   Antechinus f... yellow-foote... 38775      179    179   26%   7e-47  79.20  401        XP_051824003.1   
+erythroid transcription factor isoform X2 [Sarcophilus harrisii]  Sarcophilus ... Tasmanian devil 9305       179    179   26%   8e-47  79.20  403        XP_031800629.1   
+GATA binding protein 1 [Homo sapiens]                             Homo sapiens    human           9606       176    176   26%   1e-46  78.40  330        KAI2599317.1     
+erythroid transcription factor [Cricetulus griseus]               Cricetulus g... Chinese hamster 10029      178    178   26%   1e-46  79.20  412        XP_035306187.1   
+erythroid transcription factor isoform X2 [Phyllostomus hastatus] Phyllostomus... greater spea... 9423       176    176   26%   1e-46  78.40  346        XP_045716555.1   
+PREDICTED: erythroid transcription factor [Myotis brandtii]       Myotis brandtii Brandt's bat    109478     176    176   26%   1e-46  78.40  324        XP_005868065.1   
+Erythroid transcription factor [Myotis brandtii]                  Myotis brandtii Brandt's bat    109478     176    176   26%   2e-46  78.40  325        EPQ08830.1       
+PREDICTED: erythroid transcription factor isoform X2 [Chinchil... Chinchilla l... long-tailed ... 34839      177    177   26%   2e-46  78.40  369        XP_005411336.1   
+erythroid transcription factor isoform X1 [Ornithorhynchus...     Ornithorhync... platypus        9258       177    177   39%   2e-46  58.29  379        XP_028923607.1   
+erythroid transcription factor [Phodopus roborovskii]             Phodopus rob... desert hamster  109678     177    177   26%   2e-46  79.20  412        XP_051035516.1   
+erythroid transcription factor [Mesocricetus auratus]             Mesocricetus... golden hamster  10036      177    177   26%   2e-46  79.20  413        XP_012979937.1   
+erythroid transcription factor [Onychomys torridus]               Onychomys to... southern gra... 38674      177    177   26%   2e-46  79.20  412        XP_036029838.1   
+erythroid transcription factor [Acomys russatus]                  Acomys russatus golden spiny... 60746      177    177   26%   2e-46  79.20  413        XP_050997533.1   
+erythroid transcription factor isoform X1 [Pan paniscus]          Pan paniscus    pygmy chimpa... 9597       176    176   26%   2e-46  78.40  346        XP_034806096.1   
+erythroid transcription factor [Nannospalax galili]               Nannospalax ... Upper Galile... 1026970    177    177   26%   3e-46  79.20  413        XP_008840773.1   
+erythroid transcription factor isoform X5 [Sarcophilus harrisii]  Sarcophilus ... Tasmanian devil 9305       175    175   26%   3e-46  77.60  325        XP_031800632.1   
+Erythroid transcription factor [Myotis davidii]                   Myotis davidii  NA              225400     177    177   26%   3e-46  78.40  391        ELK33920.1       
+erythroid transcription factor [Cebus imitator]                   Cebus imitator  Panamanian w... 2715852    177    177   26%   3e-46  78.40  413        XP_017379365.1   
+erythroid transcription factor isoform X2 [Pipistrellus kuhlii]   Pipistrellus... Kuhl's pipis... 59472      177    177   26%   3e-46  78.40  411        XP_045426349.1   
+erythroid transcription factor isoform X2 [Antechinus flavipes]   Antechinus f... yellow-foote... 38775      175    175   26%   3e-46  77.60  323        XP_051824004.1   
+erythroid transcription factor [Peromyscus californicus insignis] Peromyscus c... NA              564181     177    177   26%   3e-46  79.20  412        XP_052600348.1   
+erythroid transcription factor [Peromyscus eremicus]              Peromyscus e... cactus mouse    42410      177    177   26%   3e-46  79.20  412        XP_059108958.1   
+erythroid transcription factor [Myodes glareolus]                 Myodes glare... Bank vole       447135     177    177   26%   3e-46  79.20  412        XP_048317320.1   
+erythroid transcription factor [Loxodonta africana]               Loxodonta af... African sava... 9785       177    177   26%   3e-46  78.40  413        XP_064134337.1   
+erythroid transcription factor [Sapajus apella]                   Sapajus apella  tufted capuchin 9515       177    177   26%   3e-46  78.40  413        XP_032114513.1   
+erythroid transcription factor [Marmota monax]                    Marmota monax   woodchuck       9995       176    176   26%   3e-46  79.20  359        KAF7480026.1     
+erythroid transcription factor [Lepus europaeus]                  Lepus europaeus European hare   9983       177    177   26%   3e-46  78.40  413        XP_062040483.1   
+Erythroid transcription factor [Saguinus oedipus]                 Saguinus oed... cotton-top t... 9490       177    177   26%   3e-46  78.40  412        KAK2082821.1     
+erythroid transcription factor [Peromyscus leucopus]              Peromyscus l... white-footed... 10041      177    177   26%   3e-46  79.20  412        XP_028737154.1   
+erythroid transcription factor [Callithrix jacchus]               Callithrix j... white-tufted... 9483       177    177   26%   3e-46  78.40  413        XP_035144797.1   
+erythroid transcription factor isoform X2 [Elephas maximus...     Elephas maxi... NA              99487      177    177   26%   3e-46  78.40  413        XP_049728432.1   
+erythroid transcription factor [Peromyscus maniculatus bairdii]   Peromyscus m... prairie deer... 230844     177    177   26%   3e-46  79.20  412        XP_015846098.1   
+erythroid transcription factor [Rhinopithecus roxellana]          Rhinopithecu... golden snub-... 61622      177    177   26%   3e-46  78.40  413        XP_010359390.1   
+erythroid transcription factor [Pteropus vampyrus]                Pteropus vam... large flying... 132908     177    177   26%   4e-46  78.40  413        XP_011384533.1   
+erythroid transcription factor [Macaca mulatta]                   Macaca mulatta  Rhesus monkey   9544       177    177   26%   4e-46  78.40  413        XP_014982859.2   
+erythroid transcription factor isoform X1 [Pipistrellus kuhlii]   Pipistrellus... Kuhl's pipis... 59472      177    177   26%   4e-46  78.40  411        XP_036316503.1   
+erythroid transcription factor [Aotus nancymaae]                  Aotus nancymaae Ma's night m... 37293      177    177   26%   4e-46  78.40  413        XP_012327121.1   
+PREDICTED: erythroid transcription factor [Elephantulus edwardii] Elephantulus... Cape elephan... 28737      177    177   26%   4e-46  78.40  413        XP_006902971.1   
+erythroid transcription factor [Myotis myotis]                    Myotis myotis   NA              51298      177    177   26%   4e-46  78.40  411        XP_036161897.1   
+
+
+Alignments:
+
+>erythroid transcription factor [Gallus gallus]
+Sequence ID: NP_990795.1 Length: 304
+>RecName: Full=Erythroid transcription factor; AltName: Full=Eryf1; AltName: Full=GATA-binding factor 1; Short=GATA-1; AltName: Full=NF-E1 DNA-binding protein; Short=NF-E1a [Gallus gallus]
+Sequence ID: P17678.1 Length: 304
+>Eryf1 protein [Gallus gallus]
+Sequence ID: AAA49055.1 Length: 304 
+Range 1: 1 to 304
+
+Score:348 bits(893), Expect:1e-113, 
+Method:Compositional matrix adjust., 
+Identities:304/318(96%), Positives:304/318(95%), Gaps:14/318(4%)
+
+Query  121   MEFVALGGPDAGSPTPFPDeagaflglgggerteaggllaSYPPSGRVSLVPWADTGTLG  300
+             MEFVALGGPDAGSPTPFPDEAGAFLGLGGGERTEAGGLLASYPPSGRVSLVPWADTGTLG
+Sbjct  1     MEFVALGGPDAGSPTPFPDEAGAFLGLGGGERTEAGGLLASYPPSGRVSLVPWADTGTLG  60
+
+Query  301   TPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCEARECVMARKNCGAT  480
+             TPQWVPPATQMEPPHYLELLQPPRGSPPHPSSGPLLPLSSGPPPCEARECV    NCGAT
+Sbjct  61    TPQWVPPATQMEPPHYLELLQPPRGSPPHPSSGPLLPLSSGPPPCEARECV----NCGAT  116
+
+Query  481   ATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCSHERENCQT  660
+             ATPLWRRDGTGHYLCN   ACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCS    NCQT
+Sbjct  117   ATPLWRRDGTGHYLCN---ACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCS----NCQT  169
+
+Query  661   STTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRNRKVsskgkkrrppg  840
+             STTTLWRRSPMGDPVCN   ACGLYYKLHQVNRPLTMRKDGIQTRNRKVSSKGKKRRPPG
+Sbjct  170   STTTLWRRSPMGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQTRNRKVSSKGKKRRPPG  226
+
+Query  841   ggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPVVLSGHFLPfgnsggf  1020
+             GGNPSATAGGGAPMGGGGDPSMPPPPPPPAAAPPQSDALYALGPVVLSGHFLPFGNSGGF
+Sbjct  227   GGNPSATAGGGAPMGGGGDPSMPPPPPPPAAAPPQSDALYALGPVVLSGHFLPFGNSGGF  286
+
+Query  1021  fgggaggYTAPPGLSPQI  1074
+             FGGGAGGYTAPPGLSPQI
+Sbjct  287   FGGGAGGYTAPPGLSPQI  304
+
+
+
+
+>erythroid transcription factor-like [Cygnus olor]
+Sequence ID: XP_040399693.1 Length: 297
+>erythroid transcription factor-like [Cygnus olor]
+Sequence ID: XP_040399694.1 Length: 297 
+Range 1: 1 to 265
+
+Score:259 bits(663), Expect:4e-79, 
+Method:Compositional matrix adjust., 
+Identities:199/293(68%), Positives:208/293(70%), Gaps:28/293(9%)
+
+Query  121  MEFVALGGPDAGSPTPFPDeagaflglgggerteaggllaSYPPSGRVSLVPWADTGTLG  300
+            MEFVALGGP+ G+P  FPDEAGAFLGLGGG+ TEAGGLLA Y P GR+SLVPWAD G+LG
+Sbjct  1    MEFVALGGPE-GAPPQFPDEAGAFLGLGGGDGTEAGGLLAPYTPPGRLSLVPWADGGSLG  59
+
+Query  301  TPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCEARECVMARKNCGAT  480
+             P WV P    EPP +LELLQPPRGSPP P         + PPPCEARECV    NCGAT
+Sbjct  60   APPWVSPPPA-EPPRFLELLQPPRGSPPPPGPLLPPSAIATPPPCEARECV----NCGAT  114
+
+Query  481  ATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCSHERENCQT  660
+            ATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSKRAGTVCS    NCQT
+Sbjct  115  ATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSKRAGTVCS----NCQT  167
+
+Query  661  STTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRNRKVsskgkkrrppg  840
+            STTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTRNRKV           
+Sbjct  168  STTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTRNRKV-----------  213
+
+Query  841  ggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPVVLSGHFLP  999
+                     GG+            P   P A P    ALYAL PVVLSGHFLP
+Sbjct  214  -SAKGKKRRGGSGGATAAMGGGTDPGMAPPAPPEDPAALYALSPVVLSGHFLP  265
+
+
+
+
+>LOW QUALITY PROTEIN: erythroid transcription factor [Aphelocoma coerulescens]
+Sequence ID: XP_068854348.1 Length: 324
+Range 1: 30 to 292
+
+Score:242 bits(618), Expect:5e-72, 
+Method:Compositional matrix adjust., 
+Identities:186/293(63%), Positives:198/293(67%), Gaps:30/293(10%)
+
+Query  121  MEFVALGGPDAGSPTPFPDeagaflglgggerteaggllaSYPPSGRVSLVPWADTGTLG  300
+            MEFVALGGP+   P PF DEAGAFLGLGG E  E GGLLA YPP+GR+SL+PWA+ G+LG
+Sbjct  30   MEFVALGGPEG--PPPFSDEAGAFLGLGGPEGLEPGGLLAPYPPAGRLSLLPWAEGGSLG  87
+
+Query  301  TPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCEARECVMARKNCGAT  480
+             P W PP  +     +LELLQPPR  PP     P          CEARECV    NCGAT
+Sbjct  88   GPSWTPPPPEPP--RFLELLQPPRSPPPPGPLLPPPSAP-----CEARECV----NCGAT  136
+
+Query  481  ATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCSHERENCQT  660
+            ATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSKRAGTVCS    NCQT
+Sbjct  137  ATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSKRAGTVCS----NCQT  189
+
+Query  661  STTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRNRKVsskgkkrrppg  840
+            STTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTRNRKV          G
+Sbjct  190  STTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTRNRKV-------SAKG  239
+
+Query  841  ggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPVVLSGHFLP  999
+                     G   +         PPP PP   P    AL+ LGP+VLSGH LP
+Sbjct  240  KKRRQGGGAGPGGVPETSAGPPLPPPAPPQPPPEDPSALFTLGPLVLSGHLLP  292
+
+
+
+
+>erythroid transcription factor [Parus major]
+Sequence ID: XP_018860986.2 Length: 356
+Range 1: 80 to 324
+
+Score:243 bits(620), Expect:6e-72, 
+Method:Compositional matrix adjust., 
+Identities:173/294(59%), Positives:184/294(62%), Gaps:49/294(16%)
+
+Query  118  AMEFVALGGPDAGSPTPFPDeagaflglgggerteaggllaSYPPSGRVSLVPWADTGTL  297
+            A  F+ LGGPD   P                        LA YPP GR+SLVPWA+ G+L
+Sbjct  80   AGAFLGLGGPDGLEPGGL---------------------LAPYPPPGRLSLVPWAEGGSL  118
+
+Query  298  GTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCEARECVMARKNCGA  477
+            G P W PP +  EPP +LELLQPPR  PP     P +P       CEARECV    NCGA
+Sbjct  119  GGPSWTPPHS--EPPQFLELLQPPRSPPPTGPLLPPVPPP-----CEARECV----NCGA  167
+
+Query  478  TATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCSHERENCQ  657
+            TATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSKRAGTVCS    NCQ
+Sbjct  168  TATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSKRAGTVCS----NCQ  220
+
+Query  658  TSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRNRKVsskgkkrrpp  837
+            TSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTRNRKV          
+Sbjct  221  TSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTRNRKV-------SAK  270
+
+Query  838  gggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPVVLSGHFLP  999
+            G     A   G   +         PPP PP   P    AL+ALGP+VLSGH LP
+Sbjct  271  GKKRRQAGGAGPGGVPETSMGPPLPPPAPPQPPPEDPAALFALGPLVLSGHLLP  324
+
+
+
+
+>erythroid transcription factor isoform X4 [Poecile atricapillus]
+Sequence ID: XP_058684587.1 Length: 295
+Range 1: 19 to 206
+
+Score:239 bits(611), Expect:2e-71, 
+Method:Compositional matrix adjust., 
+Identities:151/230(66%), Positives:159/230(69%), Gaps:42/230(18%)
+
+Query  118  AMEFVALGGPDAGSPTPFPDeagaflglgggerteaggllaSYPPSGRVSLVPWADTGTL  297
+            A  F+ LGGPD   P                        LA YPP GR+SLVPWA+ G+L
+Sbjct  19   AGAFLGLGGPDGLEPGGL---------------------LAPYPPPGRLSLVPWAEGGSL  57
+
+Query  298  GTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCEARECVMARKNCGA  477
+            G P W PP +  EPP +LELLQPPR  PP     P +P       CEARECV    NCGA
+Sbjct  58   GGPSWTPPHS--EPPQFLELLQPPRSPPPTGPLLPPVPPP-----CEARECV----NCGA  106
+
+Query  478  TATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCSHERENCQ  657
+            TATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSKRAGTVCS    NCQ
+Sbjct  107  TATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSKRAGTVCS----NCQ  159
+
+Query  658  TSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRNRKV  807
+            TSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTRNRKV
+Sbjct  160  TSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTRNRKV  206
+
+
+
+
+>erythroid transcription factor isoform X1 [Poecile atricapillus]
+Sequence ID: XP_058684583.1 Length: 356
+Range 1: 80 to 267
+
+Score:241 bits(614), Expect:5e-71, 
+Method:Compositional matrix adjust., 
+Identities:151/230(66%), Positives:159/230(69%), Gaps:42/230(18%)
+
+Query  118  AMEFVALGGPDAGSPTPFPDeagaflglgggerteaggllaSYPPSGRVSLVPWADTGTL  297
+            A  F+ LGGPD   P                        LA YPP GR+SLVPWA+ G+L
+Sbjct  80   AGAFLGLGGPDGLEPGGL---------------------LAPYPPPGRLSLVPWAEGGSL  118
+
+Query  298  GTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCEARECVMARKNCGA  477
+            G P W PP +  EPP +LELLQPPR  PP     P +P       CEARECV    NCGA
+Sbjct  119  GGPSWTPPHS--EPPQFLELLQPPRSPPPTGPLLPPVPPP-----CEARECV----NCGA  167
+
+Query  478  TATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCSHERENCQ  657
+            TATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSKRAGTVCS    NCQ
+Sbjct  168  TATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSKRAGTVCS----NCQ  220
+
+Query  658  TSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRNRKV  807
+            TSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTRNRKV
+Sbjct  221  TSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTRNRKV  267
+
+
+
+
+>erythroid transcription factor [Catharus ustulatus]
+Sequence ID: XP_032939535.1 Length: 289
+Range 1: 1 to 205
+
+Score:234 bits(596), Expect:2e-69, 
+Method:Compositional matrix adjust., 
+Identities:162/229(71%), Positives:169/229(73%), Gaps:24/229(10%)
+
+Query  121  MEFVALGGPDAGSPTPFPDeagaflglgggerteaggllaSYPPSGRVSLVPWADTGTLG  300
+            MEFVALGGP+   P PF DE G FLGLG  E  E GGLL  YPP GR+SLV W + G+LG
+Sbjct  1    MEFVALGGPEG--PPPFSDEPGTFLGLGAPEGLEPGGLLGPYPPPGRLSLVSWPEGGSLG  58
+
+Query  301  TPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCEARECVMARKNCGAT  480
+             P W PP  +     +LELLQPPR  P  P   P  P       CEARECV    NCGAT
+Sbjct  59   GPSWTPPPPEPP--RFLELLQPPRSPPQGPLLPPPGPA------CEARECV----NCGAT  106
+
+Query  481  ATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCSHERENCQT  660
+            ATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSKRAGTVCS    NCQT
+Sbjct  107  ATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSKRAGTVCS----NCQT  159
+
+Query  661  STTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRNRKV  807
+            STTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTRNRKV
+Sbjct  160  STTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTRNRKV  205
+
+
+
+
+>erythroid transcription factor [Cuculus canorus]
+Sequence ID: XP_053908127.1 Length: 300
+Range 1: 1 to 300
+
+Score:231 bits(590), Expect:3e-68, 
+Method:Compositional matrix adjust., 
+Identities:202/328(62%), Positives:215/328(65%), Gaps:38/328(11%)
+
+Query  121   MEFVALGGPDAGSPTPFPDeagaflglgggerteaggllaSYPPSGRVSLVPWADTGTLG  300
+             MEF+ALGGP+ G P PFPDEAGAFL LGGGE  E GGLL  YPP GR+ L PWA+ G++G
+Sbjct  1     MEFMALGGPE-GVP-PFPDEAGAFLSLGGGEGLEPGGLLGPYPPPGRLPL-PWAEGGSVG  57
+
+Query  301   TPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCEARECVMARKNCGAT  480
+             +P         EPP +LELLQPPR  PP P   P          CEARECV    NCGAT
+Sbjct  58    SPP----WAPPEPPRFLELLQPPRSPPPAPLPPPSAAPP-----CEARECV----NCGAT  104
+
+Query  481   ATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCSHERENCQT  660
+             ATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSKRAGTVCS    NCQT
+Sbjct  105   ATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSKRAGTVCS----NCQT  157
+
+Query  661   STTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRNRKVsskgkkrrppg  840
+             STTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTRNRKV    K ++   
+Sbjct  158   STTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTRNRKV--SSKGKKRRQ  212
+
+Query  841   ggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPVVLSGHFLP-------  999
+             GG  S   GG   MGG   P   P             A+YALGP+VLSGH LP       
+Sbjct  213   GGGVSMPGGGSEAMGGPPLPPQNPQNQQQPPQNDDPTAIYALGPLVLSGHLLPFPSSGSF  272
+
+Query  1000  ---fgnsggffgggaggYTAPPGLSPQI  1074
+                 G  GG F        APPGLSPQI
+Sbjct  273   FGGGGGGGGGFIAPPTPVGAPPGLSPQI  300
+
+
+
+
+>LOW QUALITY PROTEIN: erythroid transcription factor [Melopsittacus undulatus]
+Sequence ID: XP_033927778.1 Length: 321
+Range 1: 23 to 232
+
+Score:228 bits(580), Expect:2e-66, 
+Method:Compositional matrix adjust., 
+Identities:170/229(74%), Positives:178/229(77%), Gaps:19/229(8%)
+
+Query  121  MEFVALGGPDAGSPTPFPDeagaflglgggerteaggllaSYPPSGRVSLVPWADTGTLG  300
+            M+ +ALGGP+ G P PF DEAGAFLGLGG E  EAGGLLA YPP GR+SLVPWA+ G+LG
+Sbjct  23   MDLMALGGPE-GVP-PFGDEAGAFLGLGGAEGLEAGGLLAPYPPPGRLSLVPWAEGGSLG  80
+
+Query  301  TPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCEARECVMARKNCGAT  480
+             P W  P    EPP +LELLQPPRGSPP P              CEARECV    NCGAT
+Sbjct  81   GPPWATPPPAPEPPRFLELLQPPRGSPPPPGPLLPPSTPQA---CEARECV----NCGAT  133
+
+Query  481  ATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCSHERENCQT  660
+            ATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSKRAGTVCS    NCQT
+Sbjct  134  ATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSKRAGTVCS----NCQT  186
+
+Query  661  STTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRNRKV  807
+            STTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTRNRKV
+Sbjct  187  STTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTRNRKV  232
+
+
+
+
+>erythroid transcription factor [Strigops habroptila]
+Sequence ID: XP_030330160.1 Length: 352
+Range 1: 55 to 320
+
+Score:228 bits(581), Expect:3e-66, 
+Method:Compositional matrix adjust., 
+Identities:188/293(64%), Positives:198/293(67%), Gaps:27/293(9%)
+
+Query  121  MEFVALGGPDAGSPTPFPDeagaflglgggerteaggllaSYPPSGRVSLVPWADTGTLG  300
+            M+ VALGGP+ G P PF DEAGAFLGLGG E  EAGGLLA YPP GR+SLVPWA+ G+LG
+Sbjct  55   MDLVALGGPE-GVP-PFGDEAGAFLGLGGAEGLEAGGLLAPYPPPGRLSLVPWAEGGSLG  112
+
+Query  301  TPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCEARECVMARKNCGAT  480
+             P W  P  +     +LELLQPPRGSPP P              CEARECV    NCGAT
+Sbjct  113  GPPWAAPPPEPP--RFLELLQPPRGSPPPPGPLLPPSAPQP---CEARECV----NCGAT  163
+
+Query  481  ATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCSHERENCQT  660
+            ATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSKRAGTVCS    NCQT
+Sbjct  164  ATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSKRAGTVCS----NCQT  216
+
+Query  661  STTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRNRKVsskgkkrrppg  840
+            STTTLWRRSP GDPVCN   ACGLYYKLH+VNRPL MRKDGIQTRNRKV           
+Sbjct  217  STTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLAMRKDGIQTRNRKV------SAKGK  267
+
+Query  841  ggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPVVLSGHFLP  999
+                   +  G            PPP PP   P    ALYALGP+VLSGH LP
+Sbjct  268  KRRQGGGSSTGGLGAEAMGGPPLPPPAPPQPPPEDPAALYALGPLVLSGHLLP  320
+
+
+
+
+>hypothetical protein HGM15179_017468 [Zosterops borbonicus]
+Sequence ID: TRZ09635.1 Length: 294
+Range 1: 40 to 263
+
+Score:224 bits(572), Expect:1e-65, 
+Method:Compositional matrix adjust., 
+Identities:158/252(63%), Positives:166/252(65%), Gaps:28/252(11%)
+
+Query  244  YPPSGRVSLVPWADTGTLGTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssg  423
+            YPP GR+SLV W D G+LG P W PP  +     +LELLQPPR  PP     P  P    
+Sbjct  40   YPPPGRLSLVSWPDGGSLGGPSWTPPPPEPP--QFLELLQPPRSPPPPGPLLPPAPPP--  95
+
+Query  424  pppCEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRL  603
+               CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRL
+Sbjct  96   ---CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRL  145
+
+Query  604  LVSKRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDG  783
+            LVSKRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDG
+Sbjct  146  LVSKRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDG  198
+
+Query  784  IQTRNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYA  963
+            IQTRNRKV          G         G   +         PPP PP   P    AL+A
+Sbjct  199  IQTRNRKV-------SAKGKKRRQGGGAGPGGVPETSAGPPLPPPAPPQPPPEDPAALFA  251
+
+Query  964  LGPVVLSGHFLP  999
+            LGP+VLSGH LP
+Sbjct  252  LGPLVLSGHLLP  263
+
+
+
+
+>LOW QUALITY PROTEIN: erythroid transcription factor [Corvus moneduloides]
+Sequence ID: XP_031948096.1 Length: 325
+Range 1: 69 to 293
+
+Score:225 bits(574), Expect:2e-65, 
+Method:Compositional matrix adjust., 
+Identities:155/252(62%), Positives:166/252(65%), Gaps:27/252(10%)
+
+Query  244  YPPSGRVSLVPWADTGTLGTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssg  423
+            YPP+GR+SL+PWA+ G+LG P W PP  +     +LELLQPPR  PP     P       
+Sbjct  69   YPPTGRLSLLPWAEGGSLGGPSWTPPPPEPP--RFLELLQPPRSPPPPGPLLPPPSGP--  124
+
+Query  424  pppCEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRL  603
+               CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRL
+Sbjct  125  ---CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRL  174
+
+Query  604  LVSKRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDG  783
+            LVSKRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDG
+Sbjct  175  LVSKRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDG  227
+
+Query  784  IQTRNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYA  963
+            IQTRNRKV                        +         PPP PP A P    AL+ 
+Sbjct  228  IQTRNRKV------SAKGKKRRQGGGRRPXGGVPETSAGPPVPPPAPPQAPPEDPAALFT  281
+
+Query  964  LGPVVLSGHFLP  999
+            LGP+VLSGH LP
+Sbjct  282  LGPLVLSGHLLP  293
+
+
+
+
+>erythroid transcription factor isoform X1 [Cinclus cinclus]
+Sequence ID: XP_062368118.1 Length: 355
+Range 1: 100 to 323
+
+Score:226 bits(576), Expect:2e-65, 
+Method:Compositional matrix adjust., 
+Identities:154/252(61%), Positives:164/252(65%), Gaps:28/252(11%)
+
+Query  244  YPPSGRVSLVPWADTGTLGTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssg  423
+            YPP GR+SLV W + G+LG P W PP  +     +LELLQPPR  PP             
+Sbjct  100  YPPPGRLSLVSWPEGGSLGGPSWTPPPPEPP--RFLELLQPPRSPPPPGPLLAPPAPP--  155
+
+Query  424  pppCEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRL  603
+               CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRL
+Sbjct  156  ---CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRL  205
+
+Query  604  LVSKRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDG  783
+            LVSKRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDG
+Sbjct  206  LVSKRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDG  258
+
+Query  784  IQTRNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYA  963
+            IQTRNRKV          G         G   +         PPP PP   P    +L+A
+Sbjct  259  IQTRNRKV-------SAKGKKRRQGGGAGPVGVPETSVGPPLPPPAPPQPPPEDPASLFA  311
+
+Query  964  LGPVVLSGHFLP  999
+            LGP+VLSGH LP
+Sbjct  312  LGPLVLSGHLLP  323
+
+
+
+
+>LOW QUALITY PROTEIN: erythroid transcription factor [Ammospiza nelsoni]
+Sequence ID: XP_059347531.1 Length: 299
+Range 1: 44 to 269
+
+Score:223 bits(567), Expect:8e-65, 
+Method:Compositional matrix adjust., 
+Identities:160/247(65%), Positives:170/247(68%), Gaps:21/247(8%)
+
+Query  259  RVSLVPWADTGTLGTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCE  438
+            R+SLVPWA+ G+LG P W PP    EPP +LELLQPPR  P         P       CE
+Sbjct  44   RLSLVPWAEGGSLGGPSWXPPPPPPEPPRFLELLQPPRSPPRAGPPPVPPPAPPN---CE  100
+
+Query  439  ARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKR  618
+            ARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSKR
+Sbjct  101  ARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSKR  153
+
+Query  619  AGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRN  798
+            AGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTRN
+Sbjct  154  AGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTRN  206
+
+Query  799  RKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPVV  978
+            RKV      +         A   GG+P    G PS  PPP PP   P    +L+ALGP+V
+Sbjct  207  RKV----SAKGKKRRQGGGAGPXGGSPKPRRGPPSPSPPPAPPQPPPEDPASLFALGPLV  262
+
+Query  979  LSGHFLP  999
+            LSGH LP
+Sbjct  263  LSGHLLP  269
+
+
+
+
+>erythroid transcription factor isoform X3 [Anomalospiza imberbis]
+Sequence ID: XP_068034331.1 Length: 293
+Range 1: 40 to 263
+
+Score:220 bits(560), Expect:6e-64, 
+Method:Compositional matrix adjust., 
+Identities:158/252(63%), Positives:168/252(66%), Gaps:28/252(11%)
+
+Query  244  YPPSGRVSLVPWADTGTLGTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssg  423
+            YPP GR+SLVPWA+ G+LG P W PP  +     +LELLQPP+  PP     P       
+Sbjct  40   YPPPGRLSLVPWAEGGSLGGPSWPPPPPEPP--RFLELLQPPQSPPPTGPPLPPAGPP--  95
+
+Query  424  pppCEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRL  603
+               CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRL
+Sbjct  96   ---CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRL  145
+
+Query  604  LVSKRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDG  783
+            LVSKRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDG
+Sbjct  146  LVSKRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDG  198
+
+Query  784  IQTRNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYA  963
+            IQTRNRKV          G     A   G   +         PPP PP   P    AL+A
+Sbjct  199  IQTRNRKV-------SAKGKKRRQAGGAGPGGVPETSAGPPLPPPAPPQPPPEDPAALFA  251
+
+Query  964  LGPVVLSGHFLP  999
+            LGP+VLSGH LP
+Sbjct  252  LGPLVLSGHLLP  263
+
+
+
+
+>erythroid transcription factor-like, partial [Lonchura striata]
+Sequence ID: XP_021410409.1 Length: 220
+Range 1: 22 to 220
+
+Score:217 bits(553), Expect:9e-64, 
+Method:Compositional matrix adjust., 
+Identities:138/220(63%), Positives:144/220(65%), Gaps:27/220(12%)
+
+Query  433   CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+             CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVS
+Sbjct  22    CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVS  74
+
+Query  613   KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+             KRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQT
+Sbjct  75    KRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQT  127
+
+Query  793   RNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGP  972
+             RNRKV          G         G   +         PPP PP   P    AL+ALGP
+Sbjct  128   RNRKV-------SAKGKKRRQGGGAGPGGVPESSAGPPLPPPAPPQPLPEDPAALFALGP  180
+
+Query  973   VVLSGHFLPfgnsggff------gggaggYTAPPGLSPQI  1074
+             +VLSGH LPF  +              G   APPGL PQ+
+Sbjct  181   LVLSGHLLPFPPAPAGPFLGGDFAVPPGPVAAPPGLGPQL  220
+
+
+
+
+>erythroid transcription factor-like [Pezoporus wallicus]
+Sequence ID: XP_057288303.1 Length: 301
+Range 1: 1 to 211
+
+Score:219 bits(557), Expect:2e-63, 
+Method:Compositional matrix adjust., 
+Identities:167/230(73%), Positives:174/230(75%), Gaps:20/230(8%)
+
+Query  121  MEFVALGGPDAGSPTPFPDeagaflglgggerteaggllaSYPPSGRVSLVPWADTGTLG  300
+            M+ +ALGGP+ G P PF DEAGAFLGLGG E  E GGLLA YPP GR+SLVPWA+ G LG
+Sbjct  1    MDLMALGGPE-GIP-PFGDEAGAFLGLGGSEGLEVGGLLAPYPPPGRLSLVPWAEGGPLG  58
+
+Query  301  TPQWVPPATQMEPP-HYLEllqpprgspphpssgpllplssgpppCEARECVMARKNCGA  477
+             P W  P      P  +LELLQPPRGSPP P           P   EARECV    NCGA
+Sbjct  59   APPWAAPPAPPPEPPRFLELLQPPRGSPPPPGPLLPPSAPQPP---EARECV----NCGA  111
+
+Query  478  TATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCSHERENCQ  657
+            TATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSKRAGTVCS    NCQ
+Sbjct  112  TATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSKRAGTVCS----NCQ  164
+
+Query  658  TSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRNRKV  807
+            TSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTRNRKV
+Sbjct  165  TSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTRNRKV  211
+
+
+
+
+>histone deacetylase 6 [Grus japonensis]
+Sequence ID: GAB0202316.1 Length: 1226
+Range 1: 1 to 213
+
+Score:234 bits(598), Expect:4e-63, 
+Method:Compositional matrix adjust., 
+Identities:173/231(75%), Positives:177/231(76%), Gaps:21/231(9%)
+
+Query  121  MEFVALG---GPDAGSPTPFPDeagaflglgggerteaggllaSYPPSGRVSLVPWADTG  291
+            MEFVALG   GP  G+P PF DEAGAFLGLGG E  E GGLL  YPP GR+SLVPWAD G
+Sbjct  1    MEFVALGAGGGPSEGAP-PFHDEAGAFLGLGGAEGLETGGLLGPYPPPGRLSLVPWADGG  59
+
+Query  292  TLGTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCEARECVMARKNC  471
+            TLG P W PP    EPP +LELLQPPRGSPP P              CEARECV    NC
+Sbjct  60   TLGGPPWAPPPPPSEPPRFLELLQPPRGSPPPPGPLLPPGAPPA---CEARECV----NC  112
+
+Query  472  GATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCSHEREN  651
+            GATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSKRAGTVCS    N
+Sbjct  113  GATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSKRAGTVCS----N  165
+
+Query  652  CQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRNRK  804
+            CQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTRNRK
+Sbjct  166  CQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTRNRK  213
+
+
+
+
+>erythroid transcription factor-like, partial [Phalacrocorax carbo]
+Sequence ID: XP_064296398.1 Length: 272
+Range 1: 14 to 240
+
+Score:217 bits(552), Expect:5e-63, 
+Method:Compositional matrix adjust., 
+Identities:151/252(60%), Positives:155/252(61%), Gaps:25/252(9%)
+
+Query  244  YPPSGRVSLVPWADTGTLGTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssg  423
+            YP  GR+SLVPWAD G LG P          PP    +       P  P           
+Sbjct  14   YPSPGRLSLVPWADGGALGAPP----LDPHPPPGAPPIPGAAAAPPGQPPPAGAPLPPGA  69
+
+Query  424  pppCEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRL  603
+              PCEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRL
+Sbjct  70   AQPCEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRL  122
+
+Query  604  LVSKRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDG  783
+            LVSKRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDG
+Sbjct  123  LVSKRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDG  175
+
+Query  784  IQTRNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYA  963
+            IQTRNRKV          G         G            PPPP PP   P    ALYA
+Sbjct  176  IQTRNRKV-------SAKGKKRRQGGVAGAGGGPDAMGGPPPPPPAPPQPPPEDPAALYA  228
+
+Query  964  LGPVVLSGHFLP  999
+            LGP+VLSGH LP
+Sbjct  229  LGPLVLSGHLLP  240
+
+
+
+
+>erythroid transcription factor isoform X2 [Zonotrichia leucophrys gambelii]
+Sequence ID: XP_064557024.1 Length: 237
+Range 1: 43 to 237
+
+Score:216 bits(549), Expect:6e-63, 
+Method:Compositional matrix adjust., 
+Identities:139/216(64%), Positives:145/216(67%), Gaps:24/216(11%)
+
+Query  436   EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+             EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSK
+Sbjct  43    EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSK  95
+
+Query  616   RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+             RAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTR
+Sbjct  96    RAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTR  148
+
+Query  796   NRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPV  975
+             NRKV          G         G   +         PPP PP   P    +L+ALGP+
+Sbjct  149   NRKV-------SAKGKKRRQGGGAGPGGVPETSAGPPLPPPAPPQPPPEDPASLFALGPL  201
+
+Query  976   VLSGHFLPfgnsgg---ffgggaggYTAPPGLSPQI  1074
+             VLSGH LPF    G       GA    APPGLSPQ+
+Sbjct  202   VLSGHLLPFPGPAGPFLGGEFGAAPGAAPPGLSPQL  237
+
+
+
+
+>erythroid transcription factor isoform X4 [Anomalospiza imberbis]
+Sequence ID: XP_068034333.1 Length: 240
+Range 1: 44 to 240
+
+Score:216 bits(549), Expect:6e-63, 
+Method:Compositional matrix adjust., 
+Identities:142/218(65%), Positives:147/218(67%), Gaps:26/218(11%)
+
+Query  436   EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+             EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSK
+Sbjct  44    EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSK  96
+
+Query  616   RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+             RAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTR
+Sbjct  97    RAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTR  149
+
+Query  796   NRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPV  975
+             NRKV          G     A   G   +         PPP PP   P    AL+ALGP+
+Sbjct  150   NRKV-------SAKGKKRRQAGGAGPGGVPETSAGPPLPPPAPPQPPPEDPAALFALGPL  202
+
+Query  976   VLSGHFLPfgnsggf-----fgggaggYTAPPGLSPQI  1074
+             VLSGH LPF    G      FG   G   APPGLSPQ+
+Sbjct  203   VLSGHLLPFPPPTGPFLGGDFGAPPGPGAAPPGLSPQL  240
+
+
+
+
+>LOW QUALITY PROTEIN: erythroid transcription factor [Taeniopygia guttata]
+Sequence ID: XP_041567996.1 Length: 303
+Range 1: 112 to 303
+
+Score:216 bits(551), Expect:2e-62, 
+Method:Compositional matrix adjust., 
+Identities:138/214(64%), Positives:144/214(67%), Gaps:22/214(10%)
+
+Query  433   CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+             CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVS
+Sbjct  112   CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVS  164
+
+Query  613   KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+             KRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQT
+Sbjct  165   KRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQT  217
+
+Query  793   RNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGP  972
+             RNRKV          G         G   +         PPP PP   P    AL+ALGP
+Sbjct  218   RNRKV-------SAKGKKRRQGGGAGPGGVPETSAGPPLPPPAPPQPPPEDPAALFALGP  270
+
+Query  973   VVLSGHFLPfgnsggffgggaggYTAPPGLSPQI  1074
+             +VLSGH LP            G + APPGLSPQ+
+Sbjct  271   LVLSGHLLP-FPPTPAGPFLGGDFAAPPGLSPQL  303
+
+
+
+
+>LOW QUALITY PROTEIN: erythroid transcription factor [Vidua chalybeata]
+Sequence ID: XP_053823963.1 Length: 415
+Range 1: 162 to 385
+
+Score:219 bits(557), Expect:7e-62, 
+Method:Compositional matrix adjust., 
+Identities:156/252(62%), Positives:166/252(65%), Gaps:28/252(11%)
+
+Query  244  YPPSGRVSLVPWADTGTLGTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssg  423
+            +PP GR+SLVPWA+ G LG P W PP  +     +LELLQPPR  PP     P       
+Sbjct  162  FPPPGRLSLVPWAEGGXLGGPSWPPPPPEPP--RFLELLQPPRSPPPTGPPLPPAGPP--  217
+
+Query  424  pppCEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRL  603
+               CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRL
+Sbjct  218  ---CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRL  267
+
+Query  604  LVSKRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDG  783
+            LVSKRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+V+RPLTMRKDG
+Sbjct  268  LVSKRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVSRPLTMRKDG  320
+
+Query  784  IQTRNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYA  963
+            IQTRNRKV          G         G   +         PPP PP   P    AL+A
+Sbjct  321  IQTRNRKV-------SAKGKKRRQGGGAGPGGVPETSVGPPLPPPAPPQPPPEDPAALFA  373
+
+Query  964  LGPVVLSGHFLP  999
+            LGP+VLSGH LP
+Sbjct  374  LGPLVLSGHLLP  385
+
+
+
+
+>PREDICTED: erythroid transcription factor isoform X1 [Pseudopodoces humilis]
+Sequence ID: XP_014117351.1 Length: 279
+Range 1: 81 to 279
+
+Score:214 bits(544), Expect:1e-61, 
+Method:Compositional matrix adjust., 
+Identities:143/220(65%), Positives:149/220(67%), Gaps:28/220(12%)
+
+Query  436   EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+             EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSK
+Sbjct  81    EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSK  133
+
+Query  616   RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+             RAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTR
+Sbjct  134   RAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTR  186
+
+Query  796   NRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPV  975
+             NRKV          G     A   G   +         PPP PP   P    AL+ALGP+
+Sbjct  187   NRKV-------SAKGKKRRQAGGAGPGGVPETSMGPPLPPPAPPQPPPEDPAALFALGPL  239
+
+Query  976   VLSGHFLPfgnsggffgggaggY-------TAPPGLSPQI  1074
+             VLSGH LPF  +G F GG    Y        APPGLSPQ+
+Sbjct  240   VLSGHLLPFPPAGPFLGGPGSAYAAPPAPAAAPPGLSPQL  279
+
+
+
+
+>erythroid transcription factor isoform X2 [Cinclus cinclus]
+Sequence ID: XP_062368119.1 Length: 310
+>erythroid transcription factor isoform X2 [Cinclus cinclus]
+Sequence ID: XP_062368120.1 Length: 310 
+Range 1: 40 to 278
+
+Score:214 bits(544), Expect:3e-61, 
+Method:Compositional matrix adjust., 
+Identities:154/267(58%), Positives:164/267(61%), Gaps:43/267(16%)
+
+Query  244  YPPSGRVSLVPWADTGTLGTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssg  423
+            YPP GR+SLV W + G+LG P W PP  +     +LELLQPPR  PP             
+Sbjct  40   YPPPGRLSLVSWPEGGSLGGPSWTPPPPEPP--RFLELLQPPRSPPPPGPLLAPPAPP--  95
+
+Query  424  pppCEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRL  603
+               CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRL
+Sbjct  96   ---CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRL  145
+
+Query  604  L---------------VSKRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYY  738
+            L               VSKRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYY
+Sbjct  146  LNGHNRPLIRPKKRLLVSKRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYY  198
+
+Query  739  KLHQVNRPLTMRKDGIQTRNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppp  918
+            KLH+VNRPLTMRKDGIQTRNRKV          G         G   +         PPP
+Sbjct  199  KLHRVNRPLTMRKDGIQTRNRKV-------SAKGKKRRQGGGAGPVGVPETSVGPPLPPP  251
+
+Query  919  pppaaappQSDALYALGPVVLSGHFLP  999
+             PP   P    +L+ALGP+VLSGH LP
+Sbjct  252  APPQPPPEDPASLFALGPLVLSGHLLP  278
+
+
+
+
+>erythroid transcription factor [Ammospiza caudacuta]
+Sequence ID: XP_058678399.1 Length: 295
+>erythroid transcription factor [Ammospiza caudacuta]
+Sequence ID: XP_058678400.1 Length: 295
+>erythroid transcription factor [Ammospiza caudacuta]
+Sequence ID: XP_058678401.1 Length: 295 
+Range 1: 44 to 265
+
+Score:213 bits(542), Expect:4e-61, 
+Method:Compositional matrix adjust., 
+Identities:152/247(62%), Positives:161/247(65%), Gaps:25/247(10%)
+
+Query  259  RVSLVPWADTGTLGTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCE  438
+            R+SLVPWA+ G+LG P W P      P  +LELLQPPR  P         P       CE
+Sbjct  44   RLSLVPWAEGGSLGGPSWPPAPPPEPP-RFLELLQPPRSPPRAGPPPVPPPAPPN---CE  99
+
+Query  439  ARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKR  618
+            ARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSKR
+Sbjct  100  ARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSKR  152
+
+Query  619  AGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRN  798
+            AGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTRN
+Sbjct  153  AGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTRN  205
+
+Query  799  RKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPVV  978
+            RKV          G         G   +         PPP PP   P    +L+ALGP+V
+Sbjct  206  RKV-------SAKGKKRRQGGGAGPGGVPETSAGPPLPPPAPPQPPPEDPASLFALGPLV  258
+
+Query  979  LSGHFLP  999
+            LSGH LP
+Sbjct  259  LSGHLLP  265
+
+
+
+
+>erythroid transcription factor [Molothrus aeneus]
+Sequence ID: XP_066426604.1 Length: 294
+>erythroid transcription factor [Molothrus aeneus]
+Sequence ID: XP_066426605.1 Length: 294 
+Range 1: 46 to 266
+
+Score:213 bits(541), Expect:5e-61, 
+Method:Compositional matrix adjust., 
+Identities:154/247(62%), Positives:164/247(66%), Gaps:26/247(10%)
+
+Query  259  RVSLVPWADTGTLGTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssgpppCE  438
+            R+SLVPWA+ G+LG P W PP  +     +LELLQPPR  PP        P +     CE
+Sbjct  46   RLSLVPWAEGGSLGGPSWPPPPPEPP--RFLELLQPPRSPPPAGPPLLPPPGAPN---CE  100
+
+Query  439  ARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSKR  618
+            ARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSKR
+Sbjct  101  ARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSKR  153
+
+Query  619  AGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTRN  798
+            AGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTRN
+Sbjct  154  AGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTRN  206
+
+Query  799  RKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPVV  978
+            RKV          G         G   +         PPP PP   P    AL+ALGP+V
+Sbjct  207  RKV-------SAKGKKRRQGGGAGPGGVPETSAGPPLPPPAPPQPPPEDPAALFALGPLV  259
+
+Query  979  LSGHFLP  999
+            LSGH LP
+Sbjct  260  LSGHLLP  266
+
+
+
+
+>erythroid transcription factor isoform X1 [Zonotrichia leucophrys gambelii]
+Sequence ID: XP_064557022.1 Length: 293
+>erythroid transcription factor isoform X1 [Zonotrichia leucophrys gambelii]
+Sequence ID: XP_064557023.1 Length: 293 
+Range 1: 98 to 265
+
+Score:211 bits(537), Expect:2e-60, 
+Method:Compositional matrix adjust., 
+Identities:128/189(68%), Positives:133/189(70%), Gaps:21/189(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVS
+Sbjct  98   CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVS  150
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQT
+Sbjct  151  KRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQT  203
+
+Query  793  RNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGP  972
+            RNRKV          G         G   +         PPP PP   P    +L+ALGP
+Sbjct  204  RNRKV-------SAKGKKRRQGGGAGPGGVPETSAGPPLPPPAPPQPPPEDPASLFALGP  256
+
+Query  973  VVLSGHFLP  999
+            +VLSGH LP
+Sbjct  257  LVLSGHLLP  265
+
+
+
+
+>erythroid transcription factor isoform X1 [Anomalospiza imberbis]
+Sequence ID: XP_068034329.1 Length: 520
+Range 1: 267 to 490
+
+Score:216 bits(551), Expect:6e-60, 
+Method:Compositional matrix adjust., 
+Identities:158/252(63%), Positives:168/252(66%), Gaps:28/252(11%)
+
+Query  244  YPPSGRVSLVPWADTGTLGTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssg  423
+            YPP GR+SLVPWA+ G+LG P W PP  +     +LELLQPP+  PP     P       
+Sbjct  267  YPPPGRLSLVPWAEGGSLGGPSWPPPPPEPP--RFLELLQPPQSPPPTGPPLPPAGPP--  322
+
+Query  424  pppCEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRL  603
+               CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRL
+Sbjct  323  ---CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRL  372
+
+Query  604  LVSKRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDG  783
+            LVSKRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDG
+Sbjct  373  LVSKRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDG  425
+
+Query  784  IQTRNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYA  963
+            IQTRNRKV          G     A   G   +         PPP PP   P    AL+A
+Sbjct  426  IQTRNRKV-------SAKGKKRRQAGGAGPGGVPETSAGPPLPPPAPPQPPPEDPAALFA  478
+
+Query  964  LGPVVLSGHFLP  999
+            LGP+VLSGH LP
+Sbjct  479  LGPLVLSGHLLP  490
+
+
+
+
+>erythroid transcription factor [Caloenas nicobarica]
+Sequence ID: XP_065509384.1 Length: 301
+Range 1: 105 to 270
+
+Score:209 bits(533), Expect:8e-60, 
+Method:Compositional matrix adjust., 
+Identities:131/189(69%), Positives:134/189(70%), Gaps:23/189(12%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVS
+Sbjct  105  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVS  157
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQT
+Sbjct  158  KRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQT  210
+
+Query  793  RNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGP  972
+            RNRKV            G       G   +        PPPP PP   P    ALYALGP
+Sbjct  211  RNRKV---------TAKGKKRRAGPGPGGVTETMGGPPPPPPAPPQPPPEDPAALYALGP  261
+
+Query  973  VVLSGHFLP  999
+            +VLSGH LP
+Sbjct  262  LVLSGHLLP  270
+
+
+
+
+>erythroid transcription factor-like, partial [Pyrgilauda ruficollis]
+Sequence ID: XP_041324271.1 Length: 181
+Range 1: 43 to 152
+
+Score:199 bits(506), Expect:2e-57, 
+Method:Compositional matrix adjust., 
+Identities:107/124(86%), Positives:108/124(87%), Gaps:14/124(11%)
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSK
+Sbjct  43   EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSK  95
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTR
+Sbjct  96   RAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTR  148
+
+Query  796  NRKV  807
+            NRKV
+Sbjct  149  NRKV  152
+
+
+
+
+>erythroid transcription factor [Oenanthe melanoleuca]
+Sequence ID: XP_056371328.1 Length: 570
+Range 1: 291 to 457
+
+Score:210 bits(535), Expect:4e-57, 
+Method:Compositional matrix adjust., 
+Identities:133/188(71%), Positives:141/188(75%), Gaps:21/188(11%)
+
+Query  244  YPPSGRVSLVPWADTGTLGTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssg  423
+            +PP GR+SLV W + G+LG P W PP  +     +LELLQPPR  PP          +  
+Sbjct  291  FPPPGRLSLVSWPEGGSLGGPSWSPPPPEPP--RFLELLQPPRTPPPPGPLLAPPTPA--  346
+
+Query  424  pppCEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRL  603
+               CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRL
+Sbjct  347  ---CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRL  396
+
+Query  604  LVSKRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDG  783
+            LVSKRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDG
+Sbjct  397  LVSKRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDG  449
+
+Query  784  IQTRNRKV  807
+            IQTRNRKV
+Sbjct  450  IQTRNRKV  457
+
+
+
+
+>LOW QUALITY PROTEIN: erythroid transcription factor [Corvus cornix cornix]
+Sequence ID: XP_039428500.1 Length: 615
+Range 1: 415 to 615
+
+Score:211 bits(536), Expect:5e-57, 
+Method:Compositional matrix adjust., 
+Identities:145/221(66%), Positives:151/221(68%), Gaps:27/221(12%)
+
+Query  433   CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+              EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVS
+Sbjct  415   AEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVS  467
+
+Query  613   KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+             KRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQT
+Sbjct  468   KRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQT  520
+
+Query  793   RNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGP  972
+             RNRKV                  AG G        P + PPP PP A P    AL+ LGP
+Sbjct  521   RNRKV------SAKGKKRRQGGGAGPGGVPETSAGPPVCPPPAPPQAXPEDPAALFTLGP  574
+
+Query  973   VVLSGHFLPfgnsggffgggaggY-------TAPPGLSPQI  1074
+             +VLSGH LPF  +G F GG  G Y        APPGLSPQ+
+Sbjct  575   LVLSGHLLPFSPAGPFLGGPGGSYAAPPAPSAAPPGLSPQL  615
+
+
+
+
+>erythroid transcription factor [Dromaius novaehollandiae]
+Sequence ID: XP_064359477.1 Length: 325
+>erythroid transcription factor [Dromaius novaehollandiae]
+Sequence ID: XP_064359478.1 Length: 325 
+Range 1: 128 to 297
+
+Score:202 bits(514), Expect:1e-56, 
+Method:Compositional matrix adjust., 
+Identities:127/189(67%), Positives:134/189(70%), Gaps:19/189(10%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NG NRPLIRPKKRL+VS
+Sbjct  128  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGHNRPLIRPKKRLIVS  180
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR+  GDPVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  181  KRAGTACS----NCQTTTTTLWRRNASGDPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  233
+
+Query  793  RNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGP  972
+            RNRKV       +       +A AGG             PPP  P A P    ALYALGP
+Sbjct  234  RNRKV-----SAKGKKRRGAAAAAGGAPGGAALLGEPGAPPPAAPPAPPDDPAALYALGP  288
+
+Query  973  VVLSGHFLP  999
+            VVLSGHFLP
+Sbjct  289  VVLSGHFLP  297
+
+
+
+
+>erythroid transcription factor-like [Anser cygnoides]
+Sequence ID: XP_066840662.1 Length: 275
+Range 1: 83 to 192
+
+Score:200 bits(508), Expect:2e-56, 
+Method:Compositional matrix adjust., 
+Identities:107/124(86%), Positives:108/124(87%), Gaps:14/124(11%)
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSK
+Sbjct  83   EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSK  135
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTR
+Sbjct  136  RAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTR  188
+
+Query  796  NRKV  807
+            NRKV
+Sbjct  189  NRKV  192
+
+
+
+
+>erythroid transcription factor [Chelonoidis abingdonii]
+Sequence ID: XP_032634784.1 Length: 375
+Range 1: 186 to 346
+
+Score:202 bits(513), Expect:7e-56, 
+Method:Compositional matrix adjust., 
+Identities:117/189(62%), Positives:126/189(66%), Gaps:28/189(14%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  186  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  238
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  239  KRAGTQCS----NCQTTTTTLWRRNSSGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  291
+
+Query  793  RNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGP  972
+            RNRKV                          G G    P P    +     S +LYAL P
+Sbjct  292  RNRKV--------------SGKGKKRRGAAPGEGGAGPPTPLELLSPLGEDSASLYALSP  337
+
+Query  973  VVLSGHFLP  999
+            +VLS H LP
+Sbjct  338  MVLSSHLLP  346
+
+
+
+
+>erythroid transcription factor [Struthio camelus]
+Sequence ID: XP_068780207.1 Length: 328
+Range 1: 133 to 300
+
+Score:200 bits(509), Expect:7e-56, 
+Method:Compositional matrix adjust., 
+Identities:130/189(69%), Positives:136/189(71%), Gaps:21/189(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGAT TPLWRRDGTGHYLCN   ACGLYH++NG NRPLIRPKKRL+VS
+Sbjct  133  CEARECV----NCGATTTPLWRRDGTGHYLCN---ACGLYHKMNGHNRPLIRPKKRLIVS  185
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR+  GDPVCN   ACGLY+KLH VNRPLTMRKDGIQT
+Sbjct  186  KRAGTACS----NCQTTTTTLWRRNASGDPVCN---ACGLYFKLHNVNRPLTMRKDGIQT  238
+
+Query  793  RNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGP  972
+            RNRKV          G     A A GGA  GG      PPPP PP A      ALYALGP
+Sbjct  239  RNRKV-------SAKGKKRRGAAAAGGAAAGGALGEPGPPPPAPPPAPADDPAALYALGP  291
+
+Query  973  VVLSGHFLP  999
+            VVLSGHFLP
+Sbjct  292  VVLSGHFLP  300
+
+
+
+
+>erythroid transcription factor isoform X1 [Dermochelys coriacea]
+Sequence ID: XP_043357518.1 Length: 384
+Range 1: 194 to 304
+
+Score:201 bits(511), Expect:1e-55, 
+Method:Compositional matrix adjust., 
+Identities:102/125(82%), Positives:107/125(85%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  194  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  246
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQTSTTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  247  KRAGTQCS----NCQTSTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  299
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  300  RNRKV  304
+
+
+
+
+>LOW QUALITY PROTEIN: erythroid transcription factor-like [Passer domesticus]
+Sequence ID: XP_064262494.1 Length: 487
+Range 1: 126 to 293
+
+Score:204 bits(519), Expect:1e-55, 
+Method:Compositional matrix adjust., 
+Identities:129/188(69%), Positives:132/188(70%), Gaps:20/188(10%)
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSK
+Sbjct  126  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSK  178
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGTVCS    NCQTSTTTLWRR P GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTR
+Sbjct  179  RAGTVCS----NCQTSTTTLWRRXPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTR  231
+
+Query  796  NRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGPV  975
+            NRKV                  AG G        P   PPP PP   P    AL+ALGP+
+Sbjct  232  NRKV------SAKGKKRRQGGGAGPGGVPEPPAGPPPAPPPAPPQPPPEDPAALFALGPL  285
+
+Query  976  VLSGHFLP  999
+            VLSGH LP
+Sbjct  286  VLSGHLLP  293
+
+
+
+
+>erythroid transcription factor isoform X2 [Dermochelys coriacea]
+Sequence ID: XP_038238294.1 Length: 376
+>erythroid transcription factor isoform X2 [Dermochelys coriacea]
+Sequence ID: XP_038238295.1 Length: 376
+>erythroid transcription factor isoform X2 [Dermochelys coriacea]
+Sequence ID: XP_043357519.1 Length: 376 
+Range 1: 186 to 296
+
+Score:201 bits(510), Expect:2e-55, 
+Method:Compositional matrix adjust., 
+Identities:102/125(82%), Positives:107/125(85%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  186  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  238
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQTSTTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  239  KRAGTQCS----NCQTSTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  291
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  292  RNRKV  296
+
+
+
+
+>erythroid transcription factor [Camarhynchus parvulus]
+Sequence ID: XP_030826123.1 Length: 354
+Range 1: 157 to 266
+
+Score:200 bits(508), Expect:2e-55, 
+Method:Compositional matrix adjust., 
+Identities:105/124(85%), Positives:108/124(87%), Gaps:14/124(11%)
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            +ARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVSK
+Sbjct  157  QARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSK  209
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGTVCS    NCQTSTTTLWRRSP G+PVCN   ACGLYYKLH+VNRPLTMRKDGIQTR
+Sbjct  210  RAGTVCS----NCQTSTTTLWRRSPRGEPVCN---ACGLYYKLHRVNRPLTMRKDGIQTR  262
+
+Query  796  NRKV  807
+            NRKV
+Sbjct  263  NRKV  266
+
+
+
+
+>LOW QUALITY PROTEIN: erythroid transcription factor [Caretta caretta]
+Sequence ID: XP_048689163.1 Length: 375
+Range 1: 185 to 295
+
+Score:201 bits(510), Expect:2e-55, 
+Method:Compositional matrix adjust., 
+Identities:102/125(82%), Positives:107/125(85%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  185  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  237
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQTSTTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  238  KRAGTQCS----NCQTSTTTLWRRNAGGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  290
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  291  RNRKV  295
+
+
+
+
+>LOW QUALITY PROTEIN: erythroid transcription factor [Alligator sinensis]
+Sequence ID: XP_025069504.1 Length: 323
+Range 1: 139 to 249
+
+Score:199 bits(505), Expect:2e-55, 
+Method:Compositional matrix adjust., 
+Identities:102/125(82%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHR+NG NRPLIRPKKRL+VS
+Sbjct  139  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRVNGANRPLIRPKKRLVVS  191
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR P G PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  192  KRAGTQCS----NCQTTTTTLWRRDPRGQPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  244
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  245  RNRKV  249
+
+
+
+
+>erythroid transcription factor [Mauremys mutica]
+Sequence ID: XP_044856332.1 Length: 375
+Range 1: 186 to 296
+
+Score:200 bits(509), Expect:3e-55, 
+Method:Compositional matrix adjust., 
+Identities:101/125(81%), Positives:107/125(85%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  186  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  238
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  239  KRAGTQCS----NCQTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  291
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  292  RNRKV  296
+
+
+
+
+>erythroid transcription factor [Mauremys reevesii]
+Sequence ID: XP_039365782.1 Length: 375
+>erythroid transcription factor [Mauremys reevesii]
+Sequence ID: XP_039365783.1 Length: 375 
+Range 1: 186 to 296
+
+Score:200 bits(509), Expect:3e-55, 
+Method:Compositional matrix adjust., 
+Identities:101/125(81%), Positives:107/125(85%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  186  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  238
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  239  KRAGTQCS----NCQTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  291
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  292  RNRKV  296
+
+
+
+
+>erythroid transcription factor isoform X2 [Gopherus flavomarginatus]
+Sequence ID: XP_050783280.1 Length: 375
+Range 1: 186 to 296
+
+Score:199 bits(507), Expect:4e-55, 
+Method:Compositional matrix adjust., 
+Identities:100/125(80%), Positives:107/125(85%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL++S
+Sbjct  186  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIIS  238
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  239  KRAGTQCS----NCQTTTTTLWRRNSSGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  291
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  292  RNRKV  296
+
+
+
+
+>erythroid transcription factor [Emydura macquarii macquarii]
+Sequence ID: XP_067408470.1 Length: 374
+>erythroid transcription factor [Emydura macquarii macquarii]
+Sequence ID: XP_067408471.1 Length: 374
+>erythroid transcription factor [Emydura macquarii macquarii]
+Sequence ID: XP_067408473.1 Length: 374 
+Range 1: 185 to 345
+
+Score:198 bits(504), Expect:1e-54, 
+Method:Compositional matrix adjust., 
+Identities:114/189(60%), Positives:125/189(66%), Gaps:28/189(14%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  185  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  237
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTMRK+GIQT
+Sbjct  238  KRAGTQCS----NCQTTTTTLWRRNASGEPVCN---ACGLYFKLHNVNRPLTMRKEGIQT  290
+
+Query  793  RNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGP  972
+            RNRKV               +          G G    P P            +LY L P
+Sbjct  291  RNRKV--------------SAKGKKRRGGAPGEGGAGPPAPLELLPPLGEDPSSLYTLSP  336
+
+Query  973  VVLSGHFLP  999
+            +VLSGH LP
+Sbjct  337  MVLSGHLLP  345
+
+
+
+
+>erythroid transcription factor [Malaclemys terrapin pileata]
+Sequence ID: XP_053870727.1 Length: 470
+Range 1: 281 to 391
+
+Score:200 bits(509), Expect:2e-54, 
+Method:Compositional matrix adjust., 
+Identities:101/125(81%), Positives:107/125(85%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  281  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  333
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  334  KRAGTQCS----NCQTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  386
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  387  RNRKV  391
+
+
+
+
+>erythroid transcription factor isoform X1 [Gopherus flavomarginatus]
+Sequence ID: XP_050783279.1 Length: 418
+Range 1: 229 to 339
+
+Score:199 bits(505), Expect:3e-54, 
+Method:Compositional matrix adjust., 
+Identities:100/125(80%), Positives:107/125(85%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL++S
+Sbjct  229  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIIS  281
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  282  KRAGTQCS----NCQTTTTTLWRRNSSGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  334
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  335  RNRKV  339
+
+
+
+
+>LOW QUALITY PROTEIN: erythroid transcription factor [Emys orbicularis]
+Sequence ID: XP_065279184.1 Length: 368
+Range 1: 186 to 296
+
+Score:197 bits(501), Expect:3e-54, 
+Method:Compositional matrix adjust., 
+Identities:100/125(80%), Positives:106/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  186  CEARECV----NCGATATPLWRRDXTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  238
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  239  KRAGTQCS----NCQTTTTTLWRRNSSGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  291
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  292  RNRKV  296
+
+
+
+
+>GATA-binding factor 2-like [Carcharodon carcharias]
+Sequence ID: XP_041035532.1 Length: 408
+Range 1: 216 to 324
+
+Score:197 bits(501), Expect:8e-54, 
+Method:Compositional matrix adjust., 
+Identities:98/123(80%), Positives:104/123(84%), Gaps:14/123(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  216  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  268
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C+    NC TSTTTLWRR+  GDPVCN   ACGLYYKLH VNRPLTM+KDGIQT
+Sbjct  269  KRAGTQCA----NCHTSTTTLWRRNISGDPVCN---ACGLYYKLHNVNRPLTMKKDGIQT  321
+
+Query  793  RNR  801
+            RNR
+Sbjct  322  RNR  324
+
+
+
+
+>erythroid transcription factor [Alligator mississippiensis]
+Sequence ID: KYO28252.1 Length: 485
+Range 1: 221 to 331
+
+Score:199 bits(505), Expect:1e-53, 
+Method:Compositional matrix adjust., 
+Identities:102/125(82%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHR+NG NRPLIRPKKRL+VS
+Sbjct  221  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRVNGANRPLIRPKKRLVVS  273
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT CS    NCQT+TTTLWRR P G PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  274  KRAGTQCS----NCQTTTTTLWRRDPRGQPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  326
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  327  RNRKV  331
+
+
+
+
+>LOW QUALITY PROTEIN: erythroid transcription factor [Chamaea fasciata]
+Sequence ID: XP_066063348.1 Length: 342
+Range 1: 163 to 314
+
+Score:192 bits(487), Expect:2e-52, 
+Method:Compositional matrix adjust., 
+Identities:119/173(69%), Positives:125/173(72%), Gaps:21/173(12%)
+
+Query  244  YPPSGRVSLVPWADTGTLGTPQWVPPATQMEPPHYLEllqpprgspphpssgpllplssg  423
+            +PP GR+SLV WAD G+LG P W PP  +     +LELLQPPR   P     P  P    
+Sbjct  163  FPPPGRLSLVSWADGGSLGGPSWTPPPPEPP--QFLELLQPPRSPAPPGPLLPPAPPP--  218
+
+Query  424  pppCEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRL  603
+               CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRL
+Sbjct  219  ---CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRL  268
+
+Query  604  LVSKRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRP  762
+            LVSKRAGTVCS    NCQTSTTTLWRRSP GDPVCN   ACGLYYKLH+V  P
+Sbjct  269  LVSKRAGTVCS----NCQTSTTTLWRRSPRGDPVCN---ACGLYYKLHRVGTP  314
+
+
+
+
+>unnamed protein product, partial [Tetraodon nigroviridis]
+Sequence ID: CAF96874.1 Length: 190
+Range 1: 2 to 109
+
+Score:186 bits(473), Expect:2e-52, 
+Method:Compositional matrix adjust., 
+Identities:94/122(77%), Positives:104/122(85%), Gaps:14/122(11%)
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VSK
+Sbjct  2    EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVSK  54
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT+C+    NC TSTTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTM+K+GIQTR
+Sbjct  55   RAGTLCA----NCHTSTTTLWRRNASGEPVCN---ACGLYFKLHNVNRPLTMKKEGIQTR  107
+
+Query  796  NR  801
+            NR
+Sbjct  108  NR  109
+
+
+
+
+>erythroid transcription factor-like [Dryobates pubescens]
+Sequence ID: XP_054033170.1 Length: 323
+Range 1: 111 to 290
+
+Score:182 bits(462), Expect:4e-49, 
+Method:Compositional matrix adjust., 
+Identities:130/194(67%), Positives:137/194(70%), Gaps:20/194(10%)
+
+Query  436  EARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVSK  615
+            EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYHRLNG NRPLIRPKKRLLVS+
+Sbjct  111  EARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHRLNGHNRPLIRPKKRLLVSR  163
+
+Query  616  RAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQTR  795
+            RAGT       NCQT+TTTLWRRSP GDPVCN   ACGLYYKLH+VNRPLTMRKDGIQTR
+Sbjct  164  RAGT----VCTNCQTTTTTLWRRSPRGDPVCN---ACGLYYKLHRVNRPLTMRKDGIQTR  216
+
+Query  796  NRKVsskgkkrrppgggnps------atagggapmggggdpsmpppppppaaappQSDAL  957
+            NRKV++KGKKRR  GGG  S            A        +    P  P   P    AL
+Sbjct  217  NRKVTAKGKKRRQNGGGASSCAPPDPLVGVSAALPTPSPQAAALSAPQQPQPPPEDPAAL  276
+
+Query  958  YALGPVVLSGHFLP  999
+            YALGP+VLSGH LP
+Sbjct  277  YALGPLVLSGHLLP  290
+
+
+
+
+>erythroid transcription factor isoform X2 [Monodelphis domestica]
+Sequence ID: XP_007507746.1 Length: 322
+>erythroid transcription factor isoform X2 [Monodelphis domestica]
+Sequence ID: XP_016282025.1 Length: 322 
+Range 1: 123 to 233
+
+Score:179 bits(454), Expect:6e-48, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:106/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  123  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  175
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  176  KRAGTQCTNC----QTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  228
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  229  RNRKV  233
+
+
+
+
+>erythroid transcription factor isoform X2 [Phascolarctos cinereus]
+Sequence ID: XP_020832087.1 Length: 321
+Range 1: 123 to 233
+
+Score:178 bits(452), Expect:1e-47, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:106/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  123  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  175
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  176  KRAGT----QCTNCQTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  228
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  229  RNRKV  233
+
+
+
+
+>erythroid transcription factor [Vombatus ursinus]
+Sequence ID: XP_027696996.1 Length: 393
+Range 1: 195 to 305
+
+Score:180 bits(457), Expect:1e-47, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:106/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  195  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  247
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  248  KRAGT----QCTNCQTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  300
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  301  RNRKV  305
+
+
+
+
+>erythroid transcription factor isoform X1 [Monodelphis domestica]
+Sequence ID: XP_001372037.1 Length: 401
+>erythroid transcription factor isoform X1 [Monodelphis domestica]
+Sequence ID: XP_007507745.1 Length: 401 
+Range 1: 202 to 312
+
+Score:179 bits(455), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:106/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  202  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  254
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  255  KRAGTQCTNC----QTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  307
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  308  RNRKV  312
+
+
+
+
+>erythroid transcription factor isoform X1 [Phascolarctos cinereus]
+Sequence ID: XP_020832085.1 Length: 400
+>erythroid transcription factor isoform X1 [Phascolarctos cinereus]
+Sequence ID: XP_020832086.1 Length: 400 
+Range 1: 202 to 312
+
+Score:179 bits(455), Expect:4e-47, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:106/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  202  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  254
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  255  KRAGT----QCTNCQTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  307
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  308  RNRKV  312
+
+
+
+
+>Erythroid transcription factor [Cricetulus griseus]
+Sequence ID: EGW06105.1 Length: 330
+>erythroid transcription factor-like protein [Cricetulus griseus]
+Sequence ID: ERE63740.1 Length: 330 
+Range 1: 116 to 226
+
+Score:177 bits(448), Expect:6e-47, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  116  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  168
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  169  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  221
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  222  RNRKA  226
+
+
+
+
+>erythroid transcription factor isoform X1 [Antechinus flavipes]
+Sequence ID: XP_051824003.1 Length: 401
+Range 1: 202 to 312
+
+Score:179 bits(453), Expect:7e-47, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:106/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  202  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  254
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  255  KRAGT----QCTNCQTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  307
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  308  RNRKV  312
+
+
+
+
+>erythroid transcription factor isoform X2 [Sarcophilus harrisii]
+Sequence ID: XP_031800629.1 Length: 403
+Range 1: 202 to 312
+
+Score:179 bits(453), Expect:8e-47, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:106/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  202  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  254
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  255  KRAGT----QCTNCQTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  307
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  308  RNRKV  312
+
+
+
+
+>GATA binding protein 1 [Homo sapiens]
+Sequence ID: KAI2599317.1 Length: 330
+>GATA binding protein 1 [Homo sapiens]
+Sequence ID: KAI3999537.1 Length: 330 
+Range 1: 116 to 226
+
+Score:176 bits(446), Expect:1e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  116  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  168
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  169  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  221
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  222  RNRKA  226
+
+
+
+
+>erythroid transcription factor [Cricetulus griseus]
+Sequence ID: XP_035306187.1 Length: 412
+>erythroid transcription factor [Cricetulus griseus]
+Sequence ID: XP_035313483.1 Length: 412 
+Range 1: 198 to 308
+
+Score:178 bits(452), Expect:1e-46, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  198  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  250
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  251  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  303
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  304  RNRKA  308
+
+
+
+
+>erythroid transcription factor isoform X2 [Phyllostomus hastatus]
+Sequence ID: XP_045716555.1 Length: 346
+Range 1: 132 to 242
+
+Score:176 bits(447), Expect:1e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  132  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  184
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  185  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  237
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  238  RNRKA  242
+
+
+
+
+>PREDICTED: erythroid transcription factor, partial [Myotis brandtii]
+Sequence ID: XP_005868065.1 Length: 324
+Range 1: 197 to 307
+
+Score:176 bits(445), Expect:1e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  197  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  249
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  250  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  302
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  303  RNRKA  307
+
+
+
+
+>Erythroid transcription factor [Myotis brandtii]
+Sequence ID: EPQ08830.1 Length: 325
+Range 1: 197 to 307
+
+Score:176 bits(445), Expect:2e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  197  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  249
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  250  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  302
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  303  RNRKA  307
+
+
+
+
+>PREDICTED: erythroid transcription factor isoform X2 [Chinchilla lanigera]
+Sequence ID: XP_005411336.1 Length: 369
+Range 1: 156 to 266
+
+Score:177 bits(448), Expect:2e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  156  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  208
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  209  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  261
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  262  RNRKA  266
+
+
+
+
+>erythroid transcription factor isoform X1 [Ornithorhynchus anatinus]
+Sequence ID: XP_028923607.1 Length: 379
+>erythroid transcription factor isoform X1 [Ornithorhynchus anatinus]
+Sequence ID: XP_028923608.1 Length: 379 
+Range 1: 192 to 341
+
+Score:177 bits(448), Expect:2e-46, 
+Method:Compositional matrix adjust., 
+Identities:109/187(58%), Positives:121/187(64%), Gaps:37/187(19%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  192  CEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  244
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  G+PVCN   ACGLY+KLH VNRPLTMRKDGIQT
+Sbjct  245  KRAGTQCTNC----QTTTTTLWRRNASGEPVCN---ACGLYFKLHNVNRPLTMRKDGIQT  297
+
+Query  793  RNRKVsskgkkrrppgggnpsatagggapmggggdpsmpppppppaaappQSDALYALGP  972
+            RNRKV                               +           PP +  LY LGP
+Sbjct  298  RNRKV-----------------------SSKTKKKRAAEGTGEGLREEPPPATGLYGLGP  334
+
+Query  973  VVLSGHF  993
+            +VLSGH 
+Sbjct  335  MVLSGHM  341
+
+
+
+
+>erythroid transcription factor [Phodopus roborovskii]
+Sequence ID: XP_051035516.1 Length: 412
+>Gata1 [Phodopus roborovskii]
+Sequence ID: CAH6784735.1 Length: 412 
+Range 1: 198 to 308
+
+Score:177 bits(450), Expect:2e-46, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  198  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  250
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  251  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  303
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  304  RNRKA  308
+
+
+
+
+>erythroid transcription factor [Mesocricetus auratus]
+Sequence ID: XP_012979937.1 Length: 413
+>erythroid transcription factor [Mesocricetus auratus]
+Sequence ID: XP_040589726.1 Length: 413 
+Range 1: 197 to 307
+
+Score:177 bits(450), Expect:2e-46, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  197  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  249
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  250  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  302
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  303  RNRKA  307
+
+
+
+
+>erythroid transcription factor [Onychomys torridus]
+Sequence ID: XP_036029838.1 Length: 412
+Range 1: 198 to 308
+
+Score:177 bits(450), Expect:2e-46, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  198  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  250
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  251  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  303
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  304  RNRKA  308
+
+
+
+
+>erythroid transcription factor [Acomys russatus]
+Sequence ID: XP_050997533.1 Length: 413
+Range 1: 199 to 309
+
+Score:177 bits(450), Expect:2e-46, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+
+
+>erythroid transcription factor isoform X1 [Pan paniscus]
+Sequence ID: XP_034806096.1 Length: 346
+Range 1: 132 to 242
+
+Score:176 bits(445), Expect:2e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  132  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  184
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  185  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  237
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  238  RNRKA  242
+
+
+
+
+>erythroid transcription factor [Nannospalax galili]
+Sequence ID: XP_008840773.1 Length: 413
+Range 1: 199 to 309
+
+Score:177 bits(450), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+
+
+>erythroid transcription factor isoform X5 [Sarcophilus harrisii]
+Sequence ID: XP_031800632.1 Length: 325
+>erythroid transcription factor isoform X5 [Sarcophilus harrisii]
+Sequence ID: XP_031800633.1 Length: 325 
+Range 1: 124 to 234
+
+Score:175 bits(443), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:97/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+             EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  124  AEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  176
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  177  KRAGTQCTNC----QTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  229
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  230  RNRKV  234
+
+
+
+
+>Erythroid transcription factor [Myotis davidii]
+Sequence ID: ELK33920.1 Length: 391
+Range 1: 177 to 287
+
+Score:177 bits(448), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  177  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  229
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  230  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  282
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  283  RNRKA  287
+
+
+
+
+>erythroid transcription factor [Cebus imitator]
+Sequence ID: XP_017379365.1 Length: 413
+Range 1: 199 to 309
+
+Score:177 bits(449), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+
+
+>erythroid transcription factor isoform X2 [Pipistrellus kuhlii]
+Sequence ID: XP_045426349.1 Length: 411
+Range 1: 197 to 307
+
+Score:177 bits(449), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  197  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  249
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  250  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  302
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  303  RNRKA  307
+
+
+
+
+>erythroid transcription factor isoform X2 [Antechinus flavipes]
+Sequence ID: XP_051824004.1 Length: 323
+Range 1: 124 to 234
+
+Score:175 bits(443), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:97/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+             EARECV    NCGATATPLWRRDGTGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  124  AEARECV----NCGATATPLWRRDGTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  176
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  G+PVCN   ACGLYYKLH VNRPLTMRKDGIQT
+Sbjct  177  KRAGTQCTNC----QTTTTTLWRRNASGEPVCN---ACGLYYKLHNVNRPLTMRKDGIQT  229
+
+Query  793  RNRKV  807
+            RNRKV
+Sbjct  230  RNRKV  234
+
+
+
+
+>erythroid transcription factor [Peromyscus californicus insignis]
+Sequence ID: XP_052600348.1 Length: 412
+Range 1: 198 to 308
+
+Score:177 bits(449), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  198  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  250
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  251  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  303
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  304  RNRKA  308
+
+
+
+
+>erythroid transcription factor [Peromyscus eremicus]
+Sequence ID: XP_059108958.1 Length: 412
+>erythroid transcription factor [Peromyscus eremicus]
+Sequence ID: XP_059108959.1 Length: 412 
+Range 1: 198 to 308
+
+Score:177 bits(449), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  198  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  250
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  251  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  303
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  304  RNRKA  308
+
+
+
+
+>erythroid transcription factor [Myodes glareolus]
+Sequence ID: XP_048317320.1 Length: 412
+Range 1: 198 to 308
+
+Score:177 bits(449), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  198  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  250
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  251  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  303
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  304  RNRKA  308
+
+
+
+
+>erythroid transcription factor [Loxodonta africana]
+Sequence ID: XP_064134337.1 Length: 413
+>erythroid transcription factor [Loxodonta africana]
+Sequence ID: XP_064134338.1 Length: 413 
+Range 1: 199 to 309
+
+Score:177 bits(449), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+
+
+>erythroid transcription factor [Sapajus apella]
+Sequence ID: XP_032114513.1 Length: 413
+>erythroid transcription factor [Sapajus apella]
+Sequence ID: XP_032114514.1 Length: 413 
+Range 1: 199 to 309
+
+Score:177 bits(449), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+
+
+>erythroid transcription factor [Marmota monax]
+Sequence ID: KAF7480026.1 Length: 359
+>Hypothetical predicted protein [Marmota monax]
+Sequence ID: VTJ65178.1 Length: 359 
+Range 1: 145 to 255
+
+Score:176 bits(445), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  145  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  197
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  198  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  250
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  251  RNRKA  255
+
+
+
+
+>erythroid transcription factor [Lepus europaeus]
+Sequence ID: XP_062040483.1 Length: 413
+Range 1: 199 to 309
+
+Score:177 bits(449), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+
+
+>Erythroid transcription factor [Saguinus oedipus]
+Sequence ID: KAK2082821.1 Length: 412
+Range 1: 199 to 309
+
+Score:177 bits(449), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+
+
+>erythroid transcription factor [Peromyscus leucopus]
+Sequence ID: XP_028737154.1 Length: 412
+Range 1: 198 to 308
+
+Score:177 bits(449), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  198  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  250
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  251  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  303
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  304  RNRKA  308
+
+
+
+
+>erythroid transcription factor [Callithrix jacchus]
+Sequence ID: XP_035144797.1 Length: 413
+Range 1: 199 to 309
+
+Score:177 bits(449), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+
+
+>erythroid transcription factor isoform X2 [Elephas maximus indicus]
+Sequence ID: XP_049728432.1 Length: 413
+>erythroid transcription factor isoform X2 [Elephas maximus indicus]
+Sequence ID: XP_049728433.1 Length: 413 
+Range 1: 199 to 309
+
+Score:177 bits(449), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+
+
+>erythroid transcription factor [Peromyscus maniculatus bairdii]
+Sequence ID: XP_015846098.1 Length: 412
+>erythroid transcription factor [Peromyscus maniculatus bairdii]
+Sequence ID: XP_042125390.1 Length: 412 
+Range 1: 198 to 308
+
+Score:177 bits(449), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:99/125(79%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  198  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  250
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT    +  NCQT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  251  KRAGT----QCTNCQTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  303
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  304  RNRKA  308
+
+
+
+
+>erythroid transcription factor [Rhinopithecus roxellana]
+Sequence ID: XP_010359390.1 Length: 413
+>PREDICTED: erythroid transcription factor isoform X2 [Rhinopithecus bieti]
+Sequence ID: XP_017710921.1 Length: 413 
+Range 1: 199 to 309
+
+Score:177 bits(449), Expect:3e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+
+
+>erythroid transcription factor [Pteropus vampyrus]
+Sequence ID: XP_011384533.1 Length: 413
+Range 1: 199 to 309
+
+Score:177 bits(449), Expect:4e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+
+
+>erythroid transcription factor [Macaca mulatta]
+Sequence ID: XP_014982859.2 Length: 413
+Range 1: 199 to 309
+
+Score:177 bits(449), Expect:4e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+
+
+>erythroid transcription factor isoform X1 [Pipistrellus kuhlii]
+Sequence ID: XP_036316503.1 Length: 411
+>hypothetical protein mPipKuh1_005422 [Pipistrellus kuhlii]
+Sequence ID: KAF6294590.1 Length: 411 
+Range 1: 197 to 307
+
+Score:177 bits(449), Expect:4e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  197  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  249
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  250  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  302
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  303  RNRKA  307
+
+
+
+
+>erythroid transcription factor [Aotus nancymaae]
+Sequence ID: XP_012327121.1 Length: 413
+Range 1: 199 to 309
+
+Score:177 bits(449), Expect:4e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+
+
+>PREDICTED: erythroid transcription factor [Elephantulus edwardii]
+Sequence ID: XP_006902971.1 Length: 413
+Range 1: 199 to 309
+
+Score:177 bits(449), Expect:4e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  199  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  251
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  252  KRAGTQCTNC----QTTTTTLWRRNSSGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  304
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  305  RNRKA  309
+
+
+
+
+>erythroid transcription factor [Myotis myotis]
+Sequence ID: XP_036161897.1 Length: 411
+>GATA binding protein 1 [Myotis myotis]
+Sequence ID: KAF6359772.1 Length: 411 
+Range 1: 197 to 307
+
+Score:177 bits(448), Expect:4e-46, 
+Method:Compositional matrix adjust., 
+Identities:98/125(78%), Positives:105/125(84%), Gaps:14/125(11%)
+
+Query  433  CEARECVMARKNCGATATPLWRRDGTGHYLCNWASACGLYHRLNGQNRPLIRPKKRLLVS  612
+            CEARECV    NCGATATPLWRRD TGHYLCN   ACGLYH++NGQNRPLIRPKKRL+VS
+Sbjct  197  CEARECV----NCGATATPLWRRDRTGHYLCN---ACGLYHKMNGQNRPLIRPKKRLIVS  249
+
+Query  613  KRAGTVCSHERENCQTSTTTLWRRSPMGDPVCNNIHACGLYYKLHQVNRPLTMRKDGIQT  792
+            KRAGT C++     QT+TTTLWRR+  GDPVCN   ACGLYYKLHQVNRPLTMRKDGIQT
+Sbjct  250  KRAGTQCTNC----QTTTTTLWRRNASGDPVCN---ACGLYYKLHQVNRPLTMRKDGIQT  302
+
+Query  793  RNRKV  807
+            RNRK 
+Sbjct  303  RNRKA  307
+
+
+
+
+
+
+
+		
+
+
